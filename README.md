@@ -1,2 +1,108 @@
-# Feedback-Design-and-Learner-Response-Analysis
-This project examines how learners are likely to respond to different AI feedback designs in writing tasks. The focus is on clarity, actionability, and cognitive load rather than text generation.
+## Feedback Design and Learner Response Analysis
+
+This project examines how learners are likely to respond to different AI feedback designs in writing tasks.
+The focus is on clarity, actionability, and cognitive load rather than text generation.
+
+It builds on Projects 1 and 2 by shifting attention from what feedback is produced to how feedback design may affect learners.
+
+## Research Focus
+
+The project explores three core questions:
+
+How do different feedback styles affect clarity and actionability?
+
+What trade-offs exist between detailed feedback and cognitive load?
+
+Do structured styles reduce learner effort while maintaining usefulness?
+
+The aim is to support evidence-informed design of AI feedback for education.
+
+## Data Source
+
+The dataset is derived from earlier projects in this portfolio.
+
+Each row represents one feedback variant and includes:
+
+Persona generating the feedback
+
+Feedback style (raw, short_actions, step_by_step, questions_first)
+
+Feedback text
+
+LLM-based scores (1–5 scale): (clarity, actionability, cognitive_load)
+
+All scoring is reproducible and documented in the notebook.
+
+## Method Overview
+
+Multiple feedback variants were generated for the same writing samples
+
+An LLM was used as a consistent scoring instrument
+
+Scores were validated to ensure: (valid JSON output, no missing values, consistent scale usage)
+
+Results were aggregated by persona and feedback style
+
+Visual analysis was used to highlight design trade-offs
+
+## Key Analyses
+
+The notebook includes:
+
+Summary tables by persona and style
+
+Actionability comparisons across feedback styles
+
+Cognitive load comparisons across feedback styles
+
+Identification of design trade-offs between brevity and depth
+
+The analysis prioritises transparency and interpretability.
+
+## Educational Relevance
+
+This project aligns with AI for Education research by:
+
+Treating feedback as a learning intervention
+
+Examining learner effort, not only correctness
+
+Highlighting design choices that affect usability
+
+Demonstrating how learning analytics can guide feedback design
+
+The approach reflects realistic constraints in educational settings.
+
+## Files in This Repository
+
+feedback_design_analysis.ipynb
+Full analysis notebook with scoring, aggregation, and visualisations
+
+project3_feedback_design_rows.csv
+Row-level feedback variants and scores
+
+project3_feedback_design_summary.csv
+Aggregated results by persona and style
+
+README.md
+Project documentation
+
+## Related Projects
+
+Project 1: Multi-Persona AI Writing Assistant
+Focus on feedback generation and orchestration
+
+Project 2: Learning Analytics Dashboard for Writing Improvement
+Focus on before-and-after writing changes
+
+This project completes the pipeline by analysing feedback design impact.
+
+## Notes on Scope
+
+Small exploratory dataset
+
+Results are illustrative, not generalisable
+
+Emphasis is on method, reasoning, and evaluation design
+
+The project is intended as a research-ready prototype rather than a production system.
