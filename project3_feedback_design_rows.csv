@@ -1,0 +1,1087 @@
+essay_id,persona,style,essay,feedback_original,feedback_variant,wc,sc,step_count,q_count,action_hits,flesch,clarity,actionability,cognitive_load
+1,critic,raw,"School uniforms should be banned because students need freedom to express themselves, but some people think uniforms help with discipline and focus. I believe they are unfair because not everyone feels comfortable wearing the same thing and it does not always improve behaviour.","1. Clarity: The paragraph mixes two opposing views in one sentence, which makes it confusing. Instead of combining “students need freedom” and “some people think uniforms help discipline” in one sentence, separate these ideas clearly. Also, the phrase “it does not always improve behaviour” is vague—specify what “it” refers to (uniforms) and explain why.
+
+2. Structure: The paragraph lacks a clear topic sentence and supporting details. Start with a clear topic sentence stating your main argument (e.g., “School uniforms should be banned because they restrict students’ self-expression and do not guarantee better behaviour.”). Then, add at least two sentences explaining why uniforms are unfair and ineffective, with examples or reasoning.
+
+3. Strength of argument: The paragraph states opinions but does not provide reasons or evidence. Explain why uniforms make students uncomfortable (e.g., lack of individuality) and why they fail to improve behaviour (e.g., studies or logical reasoning). This will make your argument more convincing.
+
+4. Suggestions for improvement: Rewrite the paragraph to have a clear topic sentence, separate opposing views into different sentences, and provide specific reasons supporting your opinion. For example, explain how uniforms limit freedom and why discipline is not necessarily improved. Adding examples or evidence will strengthen your argument.","1. Clarity: The paragraph mixes two opposing views in one sentence, which makes it confusing. Instead of combining “students need freedom” and “some people think uniforms help discipline” in one sentence, separate these ideas clearly. Also, the phrase “it does not always improve behaviour” is vague—specify what “it” refers to (uniforms) and explain why.
+
+2. Structure: The paragraph lacks a clear topic sentence and supporting details. Start with a clear topic sentence stating your main argument (e.g., “School uniforms should be banned because they restrict students’ self-expression and do not guarantee better behaviour.”). Then, add at least two sentences explaining why uniforms are unfair and ineffective, with examples or reasoning.
+
+3. Strength of argument: The paragraph states opinions but does not provide reasons or evidence. Explain why uniforms make students uncomfortable (e.g., lack of individuality) and why they fail to improve behaviour (e.g., studies or logical reasoning). This will make your argument more convincing.
+
+4. Suggestions for improvement: Rewrite the paragraph to have a clear topic sentence, separate opposing views into different sentences, and provide specific reasons supporting your opinion. For example, explain how uniforms limit freedom and why discipline is not necessarily improved. Adding examples or evidence will strengthen your argument.",207,23,4,0,7,40.71880858085811,5,5,3
+1,critic,short_actions,"School uniforms should be banned because students need freedom to express themselves, but some people think uniforms help with discipline and focus. I believe they are unfair because not everyone feels comfortable wearing the same thing and it does not always improve behaviour.","1. Clarity: The paragraph mixes two opposing views in one sentence, which makes it confusing. Instead of combining “students need freedom” and “some people think uniforms help discipline” in one sentence, separate these ideas clearly. Also, the phrase “it does not always improve behaviour” is vague—specify what “it” refers to (uniforms) and explain why.
+
+2. Structure: The paragraph lacks a clear topic sentence and supporting details. Start with a clear topic sentence stating your main argument (e.g., “School uniforms should be banned because they restrict students’ self-expression and do not guarantee better behaviour.”). Then, add at least two sentences explaining why uniforms are unfair and ineffective, with examples or reasoning.
+
+3. Strength of argument: The paragraph states opinions but does not provide reasons or evidence. Explain why uniforms make students uncomfortable (e.g., lack of individuality) and why they fail to improve behaviour (e.g., studies or logical reasoning). This will make your argument more convincing.
+
+4. Suggestions for improvement: Rewrite the paragraph to have a clear topic sentence, separate opposing views into different sentences, and provide specific reasons supporting your opinion. For example, explain how uniforms limit freedom and why discipline is not necessarily improved. Adding examples or evidence will strengthen your argument.","- Separate opposing views into different sentences for clarity.  
+- Specify what “it” refers to and explain why uniforms may not improve behaviour.  
+- Start with a clear topic sentence stating your main argument.  
+- Add supporting details with examples or reasons to explain why uniforms are unfair and ineffective.  
+- Provide evidence or logical reasoning to strengthen your argument.",55,5,5,0,4,37.23727272727274,5,5,3
+1,critic,step_by_step,"School uniforms should be banned because students need freedom to express themselves, but some people think uniforms help with discipline and focus. I believe they are unfair because not everyone feels comfortable wearing the same thing and it does not always improve behaviour.","1. Clarity: The paragraph mixes two opposing views in one sentence, which makes it confusing. Instead of combining “students need freedom” and “some people think uniforms help discipline” in one sentence, separate these ideas clearly. Also, the phrase “it does not always improve behaviour” is vague—specify what “it” refers to (uniforms) and explain why.
+
+2. Structure: The paragraph lacks a clear topic sentence and supporting details. Start with a clear topic sentence stating your main argument (e.g., “School uniforms should be banned because they restrict students’ self-expression and do not guarantee better behaviour.”). Then, add at least two sentences explaining why uniforms are unfair and ineffective, with examples or reasoning.
+
+3. Strength of argument: The paragraph states opinions but does not provide reasons or evidence. Explain why uniforms make students uncomfortable (e.g., lack of individuality) and why they fail to improve behaviour (e.g., studies or logical reasoning). This will make your argument more convincing.
+
+4. Suggestions for improvement: Rewrite the paragraph to have a clear topic sentence, separate opposing views into different sentences, and provide specific reasons supporting your opinion. For example, explain how uniforms limit freedom and why discipline is not necessarily improved. Adding examples or evidence will strengthen your argument.","1. Begin your paragraph with a clear topic sentence that states your main argument against school uniforms.  
+2. Separate the opposing views into different sentences to avoid confusion and improve clarity.  
+3. Specify what “it” refers to when discussing behaviour, and explain why uniforms do not always improve it.  
+4. Add at least two sentences that provide specific reasons or examples explaining why uniforms make students uncomfortable and fail to improve behaviour.  
+5. Use logical reasoning or evidence to support your claims about the limitations of uniforms on self-expression and discipline.  
+6. Revise the paragraph to ensure a clear structure with a topic sentence, separated viewpoints, and strong supporting details.",111,12,6,0,9,35.177575757575795,5,5,3
+1,critic,questions_first,"School uniforms should be banned because students need freedom to express themselves, but some people think uniforms help with discipline and focus. I believe they are unfair because not everyone feels comfortable wearing the same thing and it does not always improve behaviour.","1. Clarity: The paragraph mixes two opposing views in one sentence, which makes it confusing. Instead of combining “students need freedom” and “some people think uniforms help discipline” in one sentence, separate these ideas clearly. Also, the phrase “it does not always improve behaviour” is vague—specify what “it” refers to (uniforms) and explain why.
+
+2. Structure: The paragraph lacks a clear topic sentence and supporting details. Start with a clear topic sentence stating your main argument (e.g., “School uniforms should be banned because they restrict students’ self-expression and do not guarantee better behaviour.”). Then, add at least two sentences explaining why uniforms are unfair and ineffective, with examples or reasoning.
+
+3. Strength of argument: The paragraph states opinions but does not provide reasons or evidence. Explain why uniforms make students uncomfortable (e.g., lack of individuality) and why they fail to improve behaviour (e.g., studies or logical reasoning). This will make your argument more convincing.
+
+4. Suggestions for improvement: Rewrite the paragraph to have a clear topic sentence, separate opposing views into different sentences, and provide specific reasons supporting your opinion. For example, explain how uniforms limit freedom and why discipline is not necessarily improved. Adding examples or evidence will strengthen your argument.","1. How clearly have you separated your own opinion from the opposing viewpoint in your paragraph?  
+2. Does your paragraph begin with a strong topic sentence that outlines your main argument?  
+3. Have you provided specific reasons or examples to support why you believe school uniforms should be banned?
+
+Actionable steps:  
+1. Start your paragraph with a clear topic sentence that states your main argument about school uniforms.  
+2. Separate the opposing view and your opinion into different sentences to avoid confusion.  
+3. Add specific reasons or examples explaining why uniforms limit self-expression and why they may not improve behaviour, making your argument more convincing.",106,12,6,3,4,44.97000000000003,5,5,2
+1,explainer,raw,"School uniforms should be banned because students need freedom to express themselves, but some people think uniforms help with discipline and focus. I believe they are unfair because not everyone feels comfortable wearing the same thing and it does not always improve behaviour.","Here is feedback you can use to improve your paragraph:
+
+1. Clarity:
+- Your main idea is clear: you believe school uniforms should be banned because they are unfair and don’t always help behavior.
+- To make it clearer, try to state your opinion in one strong sentence at the beginning. For example: “I believe school uniforms should be banned because they limit students’ freedom and do not improve behavior.”
+- Avoid vague phrases like “some people think” without explaining why they think that.
+
+2. Structure:
+- Your paragraph has two ideas: freedom of expression and uniforms not improving behavior. These are good points but they feel a bit mixed together.
+- Try to organize your paragraph with one main idea per sentence. For example:
+  - Sentence 1: State your opinion clearly.
+  - Sentence 2: Explain why students need freedom to express themselves.
+  - Sentence 3: Explain why uniforms do not always improve behavior.
+- This will make your paragraph easier to follow.
+
+3. Strength of argument:
+- You mention uniforms help discipline and focus but don’t explain why some people think that or why you disagree.
+- Add a sentence that briefly explains the other side’s view, for example: “Supporters say uniforms help students focus by reducing distractions.”
+- Then explain why you disagree with evidence or examples: “However, many students feel uncomfortable and distracted when forced to wear the same clothes.”
+- Adding examples or reasons makes your argument stronger.
+
+4. Suggestions for improvement:
+- Rewrite your topic sentence to clearly state your opinion.
+- Separate your ideas into clear sentences.
+- Add a sentence explaining the opposing view.
+- Add reasons or examples to support your opinion.
+- For example, you could add: “For instance, some students may feel anxious or unhappy if they cannot wear clothes that reflect their personality.”
+
+After revising, your paragraph might look like this:
+
+“I believe school uniforms should be banned because they limit students’ freedom to express themselves and do not always improve behavior. Students need to wear clothes that show their personality and help them feel comfortable. Supporters of uniforms say they help students focus by reducing distractions. However, many students feel uncomfortable and distracted when forced to wear the same clothes. For instance, some students may feel anxious or unhappy if they cannot wear clothes that reflect their personality.”
+
+Try these changes and your paragraph will be clearer, better organized, and more convincing!","Here is feedback you can use to improve your paragraph:
+
+1. Clarity:
+- Your main idea is clear: you believe school uniforms should be banned because they are unfair and don’t always help behavior.
+- To make it clearer, try to state your opinion in one strong sentence at the beginning. For example: “I believe school uniforms should be banned because they limit students’ freedom and do not improve behavior.”
+- Avoid vague phrases like “some people think” without explaining why they think that.
+
+2. Structure:
+- Your paragraph has two ideas: freedom of expression and uniforms not improving behavior. These are good points but they feel a bit mixed together.
+- Try to organize your paragraph with one main idea per sentence. For example:
+  - Sentence 1: State your opinion clearly.
+  - Sentence 2: Explain why students need freedom to express themselves.
+  - Sentence 3: Explain why uniforms do not always improve behavior.
+- This will make your paragraph easier to follow.
+
+3. Strength of argument:
+- You mention uniforms help discipline and focus but don’t explain why some people think that or why you disagree.
+- Add a sentence that briefly explains the other side’s view, for example: “Supporters say uniforms help students focus by reducing distractions.”
+- Then explain why you disagree with evidence or examples: “However, many students feel uncomfortable and distracted when forced to wear the same clothes.”
+- Adding examples or reasons makes your argument stronger.
+
+4. Suggestions for improvement:
+- Rewrite your topic sentence to clearly state your opinion.
+- Separate your ideas into clear sentences.
+- Add a sentence explaining the opposing view.
+- Add reasons or examples to support your opinion.
+- For example, you could add: “For instance, some students may feel anxious or unhappy if they cannot wear clothes that reflect their personality.”
+
+After revising, your paragraph might look like this:
+
+“I believe school uniforms should be banned because they limit students’ freedom to express themselves and do not always improve behavior. Students need to wear clothes that show their personality and help them feel comfortable. Supporters of uniforms say they help students focus by reducing distractions. However, many students feel uncomfortable and distracted when forced to wear the same clothes. For instance, some students may feel anxious or unhappy if they cannot wear clothes that reflect their personality.”
+
+Try these changes and your paragraph will be clearer, better organized, and more convincing!",389,30,22,0,23,53.589026098637504,5,5,2
+1,explainer,short_actions,"School uniforms should be banned because students need freedom to express themselves, but some people think uniforms help with discipline and focus. I believe they are unfair because not everyone feels comfortable wearing the same thing and it does not always improve behaviour.","Here is feedback you can use to improve your paragraph:
+
+1. Clarity:
+- Your main idea is clear: you believe school uniforms should be banned because they are unfair and don’t always help behavior.
+- To make it clearer, try to state your opinion in one strong sentence at the beginning. For example: “I believe school uniforms should be banned because they limit students’ freedom and do not improve behavior.”
+- Avoid vague phrases like “some people think” without explaining why they think that.
+
+2. Structure:
+- Your paragraph has two ideas: freedom of expression and uniforms not improving behavior. These are good points but they feel a bit mixed together.
+- Try to organize your paragraph with one main idea per sentence. For example:
+  - Sentence 1: State your opinion clearly.
+  - Sentence 2: Explain why students need freedom to express themselves.
+  - Sentence 3: Explain why uniforms do not always improve behavior.
+- This will make your paragraph easier to follow.
+
+3. Strength of argument:
+- You mention uniforms help discipline and focus but don’t explain why some people think that or why you disagree.
+- Add a sentence that briefly explains the other side’s view, for example: “Supporters say uniforms help students focus by reducing distractions.”
+- Then explain why you disagree with evidence or examples: “However, many students feel uncomfortable and distracted when forced to wear the same clothes.”
+- Adding examples or reasons makes your argument stronger.
+
+4. Suggestions for improvement:
+- Rewrite your topic sentence to clearly state your opinion.
+- Separate your ideas into clear sentences.
+- Add a sentence explaining the opposing view.
+- Add reasons or examples to support your opinion.
+- For example, you could add: “For instance, some students may feel anxious or unhappy if they cannot wear clothes that reflect their personality.”
+
+After revising, your paragraph might look like this:
+
+“I believe school uniforms should be banned because they limit students’ freedom to express themselves and do not always improve behavior. Students need to wear clothes that show their personality and help them feel comfortable. Supporters of uniforms say they help students focus by reducing distractions. However, many students feel uncomfortable and distracted when forced to wear the same clothes. For instance, some students may feel anxious or unhappy if they cannot wear clothes that reflect their personality.”
+
+Try these changes and your paragraph will be clearer, better organized, and more convincing!","- Rewrite your topic sentence to clearly state your opinion at the beginning.  
+- Organize your paragraph with one main idea per sentence for better clarity.  
+- Add a sentence explaining the opposing view to show understanding.  
+- Include reasons or examples to support your opinion and strengthen your argument.  
+- Avoid vague phrases like “some people think” without explanation.",55,5,5,0,7,44.928181818181855,5,5,3
+1,explainer,step_by_step,"School uniforms should be banned because students need freedom to express themselves, but some people think uniforms help with discipline and focus. I believe they are unfair because not everyone feels comfortable wearing the same thing and it does not always improve behaviour.","Here is feedback you can use to improve your paragraph:
+
+1. Clarity:
+- Your main idea is clear: you believe school uniforms should be banned because they are unfair and don’t always help behavior.
+- To make it clearer, try to state your opinion in one strong sentence at the beginning. For example: “I believe school uniforms should be banned because they limit students’ freedom and do not improve behavior.”
+- Avoid vague phrases like “some people think” without explaining why they think that.
+
+2. Structure:
+- Your paragraph has two ideas: freedom of expression and uniforms not improving behavior. These are good points but they feel a bit mixed together.
+- Try to organize your paragraph with one main idea per sentence. For example:
+  - Sentence 1: State your opinion clearly.
+  - Sentence 2: Explain why students need freedom to express themselves.
+  - Sentence 3: Explain why uniforms do not always improve behavior.
+- This will make your paragraph easier to follow.
+
+3. Strength of argument:
+- You mention uniforms help discipline and focus but don’t explain why some people think that or why you disagree.
+- Add a sentence that briefly explains the other side’s view, for example: “Supporters say uniforms help students focus by reducing distractions.”
+- Then explain why you disagree with evidence or examples: “However, many students feel uncomfortable and distracted when forced to wear the same clothes.”
+- Adding examples or reasons makes your argument stronger.
+
+4. Suggestions for improvement:
+- Rewrite your topic sentence to clearly state your opinion.
+- Separate your ideas into clear sentences.
+- Add a sentence explaining the opposing view.
+- Add reasons or examples to support your opinion.
+- For example, you could add: “For instance, some students may feel anxious or unhappy if they cannot wear clothes that reflect their personality.”
+
+After revising, your paragraph might look like this:
+
+“I believe school uniforms should be banned because they limit students’ freedom to express themselves and do not always improve behavior. Students need to wear clothes that show their personality and help them feel comfortable. Supporters of uniforms say they help students focus by reducing distractions. However, many students feel uncomfortable and distracted when forced to wear the same clothes. For instance, some students may feel anxious or unhappy if they cannot wear clothes that reflect their personality.”
+
+Try these changes and your paragraph will be clearer, better organized, and more convincing!","1. Rewrite your topic sentence to clearly state your opinion that school uniforms should be banned because they limit freedom and do not improve behavior.  
+2. Separate your ideas into clear sentences by first explaining why students need freedom to express themselves.  
+3. Add a sentence that explains the opposing view, such as how supporters believe uniforms help with discipline and focus.  
+4. Follow this by a sentence that explains why you disagree with the opposing view, using reasons or examples.  
+5. Include specific examples or reasons to support your opinion, like how some students may feel anxious or unhappy wearing the same clothes.  
+6. Organize your paragraph so each sentence focuses on one main idea to make your argument clearer and easier to follow.",125,12,6,0,8,47.62196666666668,5,5,3
+1,explainer,questions_first,"School uniforms should be banned because students need freedom to express themselves, but some people think uniforms help with discipline and focus. I believe they are unfair because not everyone feels comfortable wearing the same thing and it does not always improve behaviour.","Here is feedback you can use to improve your paragraph:
+
+1. Clarity:
+- Your main idea is clear: you believe school uniforms should be banned because they are unfair and don’t always help behavior.
+- To make it clearer, try to state your opinion in one strong sentence at the beginning. For example: “I believe school uniforms should be banned because they limit students’ freedom and do not improve behavior.”
+- Avoid vague phrases like “some people think” without explaining why they think that.
+
+2. Structure:
+- Your paragraph has two ideas: freedom of expression and uniforms not improving behavior. These are good points but they feel a bit mixed together.
+- Try to organize your paragraph with one main idea per sentence. For example:
+  - Sentence 1: State your opinion clearly.
+  - Sentence 2: Explain why students need freedom to express themselves.
+  - Sentence 3: Explain why uniforms do not always improve behavior.
+- This will make your paragraph easier to follow.
+
+3. Strength of argument:
+- You mention uniforms help discipline and focus but don’t explain why some people think that or why you disagree.
+- Add a sentence that briefly explains the other side’s view, for example: “Supporters say uniforms help students focus by reducing distractions.”
+- Then explain why you disagree with evidence or examples: “However, many students feel uncomfortable and distracted when forced to wear the same clothes.”
+- Adding examples or reasons makes your argument stronger.
+
+4. Suggestions for improvement:
+- Rewrite your topic sentence to clearly state your opinion.
+- Separate your ideas into clear sentences.
+- Add a sentence explaining the opposing view.
+- Add reasons or examples to support your opinion.
+- For example, you could add: “For instance, some students may feel anxious or unhappy if they cannot wear clothes that reflect their personality.”
+
+After revising, your paragraph might look like this:
+
+“I believe school uniforms should be banned because they limit students’ freedom to express themselves and do not always improve behavior. Students need to wear clothes that show their personality and help them feel comfortable. Supporters of uniforms say they help students focus by reducing distractions. However, many students feel uncomfortable and distracted when forced to wear the same clothes. For instance, some students may feel anxious or unhappy if they cannot wear clothes that reflect their personality.”
+
+Try these changes and your paragraph will be clearer, better organized, and more convincing!","What is your main opinion about school uniforms, and how clearly have you stated it at the beginning of your paragraph?  
+How have you organized your ideas—does each sentence focus on one main point to help your reader follow your argument?  
+Have you explained the opposing view and given reasons or examples to support why you disagree with it?
+
+To improve your paragraph:  
+1. Rewrite your topic sentence to clearly and strongly state your opinion about banning school uniforms.  
+2. Organize your paragraph so each sentence presents one idea—start with your opinion, then explain why students need freedom to express themselves, and finally why uniforms don’t always improve behavior.  
+3. Include a sentence that explains the opposing view and follow it with reasons or examples that support your disagreement, making your argument more convincing.",137,9,3,3,10,49.14082089552241,5,5,3
+1,supporter,raw,"School uniforms should be banned because students need freedom to express themselves, but some people think uniforms help with discipline and focus. I believe they are unfair because not everyone feels comfortable wearing the same thing and it does not always improve behaviour.","You’ve done a great job stating your opinion clearly and acknowledging the opposing view, which makes your paragraph balanced and thoughtful. Your main reasons—freedom of expression and comfort—are important and relatable points.
+
+To improve clarity, try to make your sentences more precise. For example, instead of “not everyone feels comfortable wearing the same thing,” you could say “many students feel uncomfortable and restricted by wearing identical uniforms.” This makes your point stronger and clearer.
+
+For structure, consider separating your ideas into two sentences: one that explains why uniforms should be banned (freedom and comfort) and another that addresses why some people support uniforms (discipline and focus). This will help your paragraph flow better.
+
+To strengthen your argument, add a specific example or explanation of how uniforms fail to improve behavior or limit self-expression. For instance, you could mention how students express their personalities through clothing or how discomfort can distract from learning.
+
+Here’s a quick revision suggestion:
+“School uniforms should be banned because many students feel uncomfortable and restricted by wearing identical clothing, which limits their freedom to express themselves. Although some people believe uniforms help with discipline and focus, uniforms do not always improve behavior and can even distract students who feel constrained.”
+
+Keep up the good work! With these changes, your paragraph will be clearer, better organized, and more convincing.","You’ve done a great job stating your opinion clearly and acknowledging the opposing view, which makes your paragraph balanced and thoughtful. Your main reasons—freedom of expression and comfort—are important and relatable points.
+
+To improve clarity, try to make your sentences more precise. For example, instead of “not everyone feels comfortable wearing the same thing,” you could say “many students feel uncomfortable and restricted by wearing identical uniforms.” This makes your point stronger and clearer.
+
+For structure, consider separating your ideas into two sentences: one that explains why uniforms should be banned (freedom and comfort) and another that addresses why some people support uniforms (discipline and focus). This will help your paragraph flow better.
+
+To strengthen your argument, add a specific example or explanation of how uniforms fail to improve behavior or limit self-expression. For instance, you could mention how students express their personalities through clothing or how discomfort can distract from learning.
+
+Here’s a quick revision suggestion:
+“School uniforms should be banned because many students feel uncomfortable and restricted by wearing identical clothing, which limits their freedom to express themselves. Although some people believe uniforms help with discipline and focus, uniforms do not always improve behavior and can even distract students who feel constrained.”
+
+Keep up the good work! With these changes, your paragraph will be clearer, better organized, and more convincing.",227,13,0,0,7,40.499220374220386,5,5,2
+1,supporter,short_actions,"School uniforms should be banned because students need freedom to express themselves, but some people think uniforms help with discipline and focus. I believe they are unfair because not everyone feels comfortable wearing the same thing and it does not always improve behaviour.","You’ve done a great job stating your opinion clearly and acknowledging the opposing view, which makes your paragraph balanced and thoughtful. Your main reasons—freedom of expression and comfort—are important and relatable points.
+
+To improve clarity, try to make your sentences more precise. For example, instead of “not everyone feels comfortable wearing the same thing,” you could say “many students feel uncomfortable and restricted by wearing identical uniforms.” This makes your point stronger and clearer.
+
+For structure, consider separating your ideas into two sentences: one that explains why uniforms should be banned (freedom and comfort) and another that addresses why some people support uniforms (discipline and focus). This will help your paragraph flow better.
+
+To strengthen your argument, add a specific example or explanation of how uniforms fail to improve behavior or limit self-expression. For instance, you could mention how students express their personalities through clothing or how discomfort can distract from learning.
+
+Here’s a quick revision suggestion:
+“School uniforms should be banned because many students feel uncomfortable and restricted by wearing identical clothing, which limits their freedom to express themselves. Although some people believe uniforms help with discipline and focus, uniforms do not always improve behavior and can even distract students who feel constrained.”
+
+Keep up the good work! With these changes, your paragraph will be clearer, better organized, and more convincing.","- Clarify sentences by using precise language, e.g., replace vague phrases with stronger statements.  
+- Separate ideas into two sentences: one for your opinion and one for the opposing view.  
+- Add specific examples or explanations to support your argument about uniforms limiting expression or behavior.  
+- Organize your paragraph for better flow by clearly distinguishing reasons for and against uniforms.  
+- Strengthen your points by explaining how discomfort or uniform policies affect students.",70,7,5,0,5,30.866847826086996,5,5,3
+1,supporter,step_by_step,"School uniforms should be banned because students need freedom to express themselves, but some people think uniforms help with discipline and focus. I believe they are unfair because not everyone feels comfortable wearing the same thing and it does not always improve behaviour.","You’ve done a great job stating your opinion clearly and acknowledging the opposing view, which makes your paragraph balanced and thoughtful. Your main reasons—freedom of expression and comfort—are important and relatable points.
+
+To improve clarity, try to make your sentences more precise. For example, instead of “not everyone feels comfortable wearing the same thing,” you could say “many students feel uncomfortable and restricted by wearing identical uniforms.” This makes your point stronger and clearer.
+
+For structure, consider separating your ideas into two sentences: one that explains why uniforms should be banned (freedom and comfort) and another that addresses why some people support uniforms (discipline and focus). This will help your paragraph flow better.
+
+To strengthen your argument, add a specific example or explanation of how uniforms fail to improve behavior or limit self-expression. For instance, you could mention how students express their personalities through clothing or how discomfort can distract from learning.
+
+Here’s a quick revision suggestion:
+“School uniforms should be banned because many students feel uncomfortable and restricted by wearing identical clothing, which limits their freedom to express themselves. Although some people believe uniforms help with discipline and focus, uniforms do not always improve behavior and can even distract students who feel constrained.”
+
+Keep up the good work! With these changes, your paragraph will be clearer, better organized, and more convincing.","1. Clearly state your opinion and acknowledge the opposing view to create a balanced paragraph.  
+2. Make your sentences more precise by using stronger, clearer language, such as replacing “not everyone feels comfortable wearing the same thing” with “many students feel uncomfortable and restricted by wearing identical uniforms.”  
+3. Separate your ideas into two sentences: one explaining why uniforms should be banned and another presenting the opposing view, to improve paragraph flow.  
+4. Add a specific example or explanation showing how uniforms fail to improve behavior or limit self-expression.  
+5. Use examples like how students express their personalities through clothing or how discomfort can distract from learning to strengthen your argument.  
+6. Revise your paragraph using these steps to make it clearer, better organized, and more convincing.",128,12,6,0,6,32.138234908136525,5,5,3
+1,supporter,questions_first,"School uniforms should be banned because students need freedom to express themselves, but some people think uniforms help with discipline and focus. I believe they are unfair because not everyone feels comfortable wearing the same thing and it does not always improve behaviour.","You’ve done a great job stating your opinion clearly and acknowledging the opposing view, which makes your paragraph balanced and thoughtful. Your main reasons—freedom of expression and comfort—are important and relatable points.
+
+To improve clarity, try to make your sentences more precise. For example, instead of “not everyone feels comfortable wearing the same thing,” you could say “many students feel uncomfortable and restricted by wearing identical uniforms.” This makes your point stronger and clearer.
+
+For structure, consider separating your ideas into two sentences: one that explains why uniforms should be banned (freedom and comfort) and another that addresses why some people support uniforms (discipline and focus). This will help your paragraph flow better.
+
+To strengthen your argument, add a specific example or explanation of how uniforms fail to improve behavior or limit self-expression. For instance, you could mention how students express their personalities through clothing or how discomfort can distract from learning.
+
+Here’s a quick revision suggestion:
+“School uniforms should be banned because many students feel uncomfortable and restricted by wearing identical clothing, which limits their freedom to express themselves. Although some people believe uniforms help with discipline and focus, uniforms do not always improve behavior and can even distract students who feel constrained.”
+
+Keep up the good work! With these changes, your paragraph will be clearer, better organized, and more convincing.","What specific examples can you add to show how uniforms limit self-expression or fail to improve behavior?  
+How might breaking your paragraph into separate sentences for each main idea improve the flow and clarity?  
+In what ways can you make your reasons more precise and stronger by choosing clearer words?
+
+1. Separate your ideas into two sentences: one explaining why uniforms should be banned (freedom and comfort) and another presenting the opposing view (discipline and focus) to improve structure and flow.  
+2. Replace vague phrases like “not everyone feels comfortable wearing the same thing” with clearer, stronger wording such as “many students feel uncomfortable and restricted by wearing identical uniforms.”  
+3. Add a specific example or explanation to support your argument, for instance, how students express their personalities through clothing or how discomfort caused by uniforms can distract from learning.",141,9,3,3,8,35.7059523809524,5,5,3
+1,planner,raw,"School uniforms should be banned because students need freedom to express themselves, but some people think uniforms help with discipline and focus. I believe they are unfair because not everyone feels comfortable wearing the same thing and it does not always improve behaviour.","Here is some feedback to help you improve your paragraph:
+
+1. Clarity:
+- Your main idea is that school uniforms should be banned because they limit students' freedom and do not always improve behavior. Make this clearer by stating your opinion at the very beginning.
+- Avoid mixing opposing views and your opinion in the same sentence. This can confuse the reader.
+
+2. Structure:
+- Start with a clear topic sentence that states your position.
+- Then, explain your reasons one by one in separate sentences.
+- Finally, briefly acknowledge the opposing view and explain why you disagree.
+
+3. Strength of argument:
+- You mention that uniforms do not always improve behavior, but you could strengthen this by giving a specific example or explaining why.
+- Also, explain why freedom of expression is important for students.
+
+4. Suggestions for improvement:
+- Rewrite your paragraph with this order: your clear opinion → reason 1 (freedom to express) → reason 2 (discomfort wearing the same thing) → counterargument (discipline and focus) → why you disagree.
+- Add more detail or examples to support your points.
+- Use transition words like “first,” “however,” and “therefore” to improve flow.
+
+Example revision:
+""I believe school uniforms should be banned because they limit students’ freedom to express themselves. First, wearing the same clothes every day can make students feel uncomfortable and prevent them from showing their unique personalities. Second, uniforms do not always improve behavior, as some students may still act out regardless of what they wear. Although some people argue that uniforms help with discipline and focus, I disagree because true discipline comes from personal responsibility, not clothing.""","Here is some feedback to help you improve your paragraph:
+
+1. Clarity:
+- Your main idea is that school uniforms should be banned because they limit students' freedom and do not always improve behavior. Make this clearer by stating your opinion at the very beginning.
+- Avoid mixing opposing views and your opinion in the same sentence. This can confuse the reader.
+
+2. Structure:
+- Start with a clear topic sentence that states your position.
+- Then, explain your reasons one by one in separate sentences.
+- Finally, briefly acknowledge the opposing view and explain why you disagree.
+
+3. Strength of argument:
+- You mention that uniforms do not always improve behavior, but you could strengthen this by giving a specific example or explaining why.
+- Also, explain why freedom of expression is important for students.
+
+4. Suggestions for improvement:
+- Rewrite your paragraph with this order: your clear opinion → reason 1 (freedom to express) → reason 2 (discomfort wearing the same thing) → counterargument (discipline and focus) → why you disagree.
+- Add more detail or examples to support your points.
+- Use transition words like “first,” “however,” and “therefore” to improve flow.
+
+Example revision:
+""I believe school uniforms should be banned because they limit students’ freedom to express themselves. First, wearing the same clothes every day can make students feel uncomfortable and prevent them from showing their unique personalities. Second, uniforms do not always improve behavior, as some students may still act out regardless of what they wear. Although some people argue that uniforms help with discipline and focus, I disagree because true discipline comes from personal responsibility, not clothing.""",259,21,14,0,15,49.60901430842608,5,5,3
+1,planner,short_actions,"School uniforms should be banned because students need freedom to express themselves, but some people think uniforms help with discipline and focus. I believe they are unfair because not everyone feels comfortable wearing the same thing and it does not always improve behaviour.","Here is some feedback to help you improve your paragraph:
+
+1. Clarity:
+- Your main idea is that school uniforms should be banned because they limit students' freedom and do not always improve behavior. Make this clearer by stating your opinion at the very beginning.
+- Avoid mixing opposing views and your opinion in the same sentence. This can confuse the reader.
+
+2. Structure:
+- Start with a clear topic sentence that states your position.
+- Then, explain your reasons one by one in separate sentences.
+- Finally, briefly acknowledge the opposing view and explain why you disagree.
+
+3. Strength of argument:
+- You mention that uniforms do not always improve behavior, but you could strengthen this by giving a specific example or explaining why.
+- Also, explain why freedom of expression is important for students.
+
+4. Suggestions for improvement:
+- Rewrite your paragraph with this order: your clear opinion → reason 1 (freedom to express) → reason 2 (discomfort wearing the same thing) → counterargument (discipline and focus) → why you disagree.
+- Add more detail or examples to support your points.
+- Use transition words like “first,” “however,” and “therefore” to improve flow.
+
+Example revision:
+""I believe school uniforms should be banned because they limit students’ freedom to express themselves. First, wearing the same clothes every day can make students feel uncomfortable and prevent them from showing their unique personalities. Second, uniforms do not always improve behavior, as some students may still act out regardless of what they wear. Although some people argue that uniforms help with discipline and focus, I disagree because true discipline comes from personal responsibility, not clothing.""","- Start with a clear opinion statement at the beginning.  
+- Separate your reasons into distinct sentences for clarity.  
+- Add specific examples to explain why uniforms don’t improve behavior.  
+- Explain why freedom of expression matters for students.  
+- Use transition words to connect ideas smoothly.",43,5,5,0,6,41.1947142857143,5,5,3
+1,planner,step_by_step,"School uniforms should be banned because students need freedom to express themselves, but some people think uniforms help with discipline and focus. I believe they are unfair because not everyone feels comfortable wearing the same thing and it does not always improve behaviour.","Here is some feedback to help you improve your paragraph:
+
+1. Clarity:
+- Your main idea is that school uniforms should be banned because they limit students' freedom and do not always improve behavior. Make this clearer by stating your opinion at the very beginning.
+- Avoid mixing opposing views and your opinion in the same sentence. This can confuse the reader.
+
+2. Structure:
+- Start with a clear topic sentence that states your position.
+- Then, explain your reasons one by one in separate sentences.
+- Finally, briefly acknowledge the opposing view and explain why you disagree.
+
+3. Strength of argument:
+- You mention that uniforms do not always improve behavior, but you could strengthen this by giving a specific example or explaining why.
+- Also, explain why freedom of expression is important for students.
+
+4. Suggestions for improvement:
+- Rewrite your paragraph with this order: your clear opinion → reason 1 (freedom to express) → reason 2 (discomfort wearing the same thing) → counterargument (discipline and focus) → why you disagree.
+- Add more detail or examples to support your points.
+- Use transition words like “first,” “however,” and “therefore” to improve flow.
+
+Example revision:
+""I believe school uniforms should be banned because they limit students’ freedom to express themselves. First, wearing the same clothes every day can make students feel uncomfortable and prevent them from showing their unique personalities. Second, uniforms do not always improve behavior, as some students may still act out regardless of what they wear. Although some people argue that uniforms help with discipline and focus, I disagree because true discipline comes from personal responsibility, not clothing.""","1. Begin your paragraph with a clear topic sentence that states your opinion that school uniforms should be banned.  
+2. Explain your first reason by describing why freedom of expression is important for students.  
+3. Present your second reason by discussing how wearing the same clothes can make students feel uncomfortable.  
+4. Briefly acknowledge the opposing view that uniforms help with discipline and focus.  
+5. Explain why you disagree with the opposing view, providing a clear explanation or example.  
+6. Use transition words like “first,” “however,” and “therefore” to connect your ideas and improve the flow of your paragraph.",99,12,6,0,6,51.65113636363637,5,5,2
+1,planner,questions_first,"School uniforms should be banned because students need freedom to express themselves, but some people think uniforms help with discipline and focus. I believe they are unfair because not everyone feels comfortable wearing the same thing and it does not always improve behaviour.","Here is some feedback to help you improve your paragraph:
+
+1. Clarity:
+- Your main idea is that school uniforms should be banned because they limit students' freedom and do not always improve behavior. Make this clearer by stating your opinion at the very beginning.
+- Avoid mixing opposing views and your opinion in the same sentence. This can confuse the reader.
+
+2. Structure:
+- Start with a clear topic sentence that states your position.
+- Then, explain your reasons one by one in separate sentences.
+- Finally, briefly acknowledge the opposing view and explain why you disagree.
+
+3. Strength of argument:
+- You mention that uniforms do not always improve behavior, but you could strengthen this by giving a specific example or explaining why.
+- Also, explain why freedom of expression is important for students.
+
+4. Suggestions for improvement:
+- Rewrite your paragraph with this order: your clear opinion → reason 1 (freedom to express) → reason 2 (discomfort wearing the same thing) → counterargument (discipline and focus) → why you disagree.
+- Add more detail or examples to support your points.
+- Use transition words like “first,” “however,” and “therefore” to improve flow.
+
+Example revision:
+""I believe school uniforms should be banned because they limit students’ freedom to express themselves. First, wearing the same clothes every day can make students feel uncomfortable and prevent them from showing their unique personalities. Second, uniforms do not always improve behavior, as some students may still act out regardless of what they wear. Although some people argue that uniforms help with discipline and focus, I disagree because true discipline comes from personal responsibility, not clothing.""","What is the main point you want your reader to understand from your paragraph?  
+How can you organize your ideas so that your opinion and reasons are clearer and easier to follow?  
+What examples or explanations can you add to make your argument stronger and more convincing?
+
+1. Begin your paragraph with a clear statement of your opinion to set the focus right away.  
+2. Separate your reasons into distinct sentences, explaining each one clearly before addressing the opposing view.  
+3. Add specific examples or explanations to support why freedom of expression matters and why uniforms may not improve behavior, and use transition words like “first,” “however,” and “therefore” to connect your ideas smoothly.",114,9,3,3,8,47.29210526315791,5,5,2
+1,combined,raw,"School uniforms should be banned because students need freedom to express themselves, but some people think uniforms help with discipline and focus. I believe they are unfair because not everyone feels comfortable wearing the same thing and it does not always improve behaviour.","Here is some clear, structured feedback to help you improve your paragraph:
+
+1. **State Your Opinion Clearly at the Start**  
+   Begin with a strong topic sentence that clearly expresses your main idea. For example:  
+   *“I believe school uniforms should be banned because they limit students’ freedom to express themselves and do not always improve behavior.”*
+
+2. **Organize Your Ideas into Separate Sentences**  
+   Break your paragraph into clear points:  
+   - Explain why freedom of expression matters to students.  
+   - Describe how uniforms can make students feel uncomfortable or restricted.  
+   - Acknowledge the opposing view that uniforms help with discipline and focus.  
+   - Explain why you disagree with that view, using reasons or examples.
+
+3. **Support Your Arguments with Reasons or Examples**  
+   Make your points stronger by adding explanations or specific examples, such as:  
+   - How wearing the same clothes every day can prevent students from showing their personalities.  
+   - Why discomfort from uniforms might distract students rather than help them behave better.  
+   - Why discipline depends more on personal responsibility than on clothing.
+
+4. **Use Clear and Precise Language**  
+   Replace vague phrases like “some people think” or “it does not always improve behaviour” with specific explanations. For example, say “many students feel uncomfortable wearing identical uniforms” or “uniforms do not guarantee better behavior because students may still misbehave regardless of their clothes.”
+
+5. **Improve Flow with Transition Words**  
+   Use words like “first,” “however,” and “therefore” to connect your ideas smoothly and guide the reader through your argument.
+
+By following these steps, your paragraph will be clearer, better organized, and more convincing. Keep up the good work!","Here is some clear, structured feedback to help you improve your paragraph:
+
+1. **State Your Opinion Clearly at the Start**  
+   Begin with a strong topic sentence that clearly expresses your main idea. For example:  
+   *“I believe school uniforms should be banned because they limit students’ freedom to express themselves and do not always improve behavior.”*
+
+2. **Organize Your Ideas into Separate Sentences**  
+   Break your paragraph into clear points:  
+   - Explain why freedom of expression matters to students.  
+   - Describe how uniforms can make students feel uncomfortable or restricted.  
+   - Acknowledge the opposing view that uniforms help with discipline and focus.  
+   - Explain why you disagree with that view, using reasons or examples.
+
+3. **Support Your Arguments with Reasons or Examples**  
+   Make your points stronger by adding explanations or specific examples, such as:  
+   - How wearing the same clothes every day can prevent students from showing their personalities.  
+   - Why discomfort from uniforms might distract students rather than help them behave better.  
+   - Why discipline depends more on personal responsibility than on clothing.
+
+4. **Use Clear and Precise Language**  
+   Replace vague phrases like “some people think” or “it does not always improve behaviour” with specific explanations. For example, say “many students feel uncomfortable wearing identical uniforms” or “uniforms do not guarantee better behavior because students may still misbehave regardless of their clothes.”
+
+5. **Improve Flow with Transition Words**  
+   Use words like “first,” “however,” and “therefore” to connect your ideas smoothly and guide the reader through your argument.
+
+By following these steps, your paragraph will be clearer, better organized, and more convincing. Keep up the good work!",258,19,12,0,14,44.44211627906978,5,5,2
+1,combined,short_actions,"School uniforms should be banned because students need freedom to express themselves, but some people think uniforms help with discipline and focus. I believe they are unfair because not everyone feels comfortable wearing the same thing and it does not always improve behaviour.","Here is some clear, structured feedback to help you improve your paragraph:
+
+1. **State Your Opinion Clearly at the Start**  
+   Begin with a strong topic sentence that clearly expresses your main idea. For example:  
+   *“I believe school uniforms should be banned because they limit students’ freedom to express themselves and do not always improve behavior.”*
+
+2. **Organize Your Ideas into Separate Sentences**  
+   Break your paragraph into clear points:  
+   - Explain why freedom of expression matters to students.  
+   - Describe how uniforms can make students feel uncomfortable or restricted.  
+   - Acknowledge the opposing view that uniforms help with discipline and focus.  
+   - Explain why you disagree with that view, using reasons or examples.
+
+3. **Support Your Arguments with Reasons or Examples**  
+   Make your points stronger by adding explanations or specific examples, such as:  
+   - How wearing the same clothes every day can prevent students from showing their personalities.  
+   - Why discomfort from uniforms might distract students rather than help them behave better.  
+   - Why discipline depends more on personal responsibility than on clothing.
+
+4. **Use Clear and Precise Language**  
+   Replace vague phrases like “some people think” or “it does not always improve behaviour” with specific explanations. For example, say “many students feel uncomfortable wearing identical uniforms” or “uniforms do not guarantee better behavior because students may still misbehave regardless of their clothes.”
+
+5. **Improve Flow with Transition Words**  
+   Use words like “first,” “however,” and “therefore” to connect your ideas smoothly and guide the reader through your argument.
+
+By following these steps, your paragraph will be clearer, better organized, and more convincing. Keep up the good work!","- Start with a clear topic sentence stating your opinion.  
+- Separate your ideas into distinct sentences for clarity.  
+- Add reasons or examples to support each argument.  
+- Replace vague phrases with specific explanations.  
+- Use transition words to connect your ideas smoothly.",39,5,5,0,5,40.56415384615386,5,5,3
+1,combined,step_by_step,"School uniforms should be banned because students need freedom to express themselves, but some people think uniforms help with discipline and focus. I believe they are unfair because not everyone feels comfortable wearing the same thing and it does not always improve behaviour.","Here is some clear, structured feedback to help you improve your paragraph:
+
+1. **State Your Opinion Clearly at the Start**  
+   Begin with a strong topic sentence that clearly expresses your main idea. For example:  
+   *“I believe school uniforms should be banned because they limit students’ freedom to express themselves and do not always improve behavior.”*
+
+2. **Organize Your Ideas into Separate Sentences**  
+   Break your paragraph into clear points:  
+   - Explain why freedom of expression matters to students.  
+   - Describe how uniforms can make students feel uncomfortable or restricted.  
+   - Acknowledge the opposing view that uniforms help with discipline and focus.  
+   - Explain why you disagree with that view, using reasons or examples.
+
+3. **Support Your Arguments with Reasons or Examples**  
+   Make your points stronger by adding explanations or specific examples, such as:  
+   - How wearing the same clothes every day can prevent students from showing their personalities.  
+   - Why discomfort from uniforms might distract students rather than help them behave better.  
+   - Why discipline depends more on personal responsibility than on clothing.
+
+4. **Use Clear and Precise Language**  
+   Replace vague phrases like “some people think” or “it does not always improve behaviour” with specific explanations. For example, say “many students feel uncomfortable wearing identical uniforms” or “uniforms do not guarantee better behavior because students may still misbehave regardless of their clothes.”
+
+5. **Improve Flow with Transition Words**  
+   Use words like “first,” “however,” and “therefore” to connect your ideas smoothly and guide the reader through your argument.
+
+By following these steps, your paragraph will be clearer, better organized, and more convincing. Keep up the good work!","1. Begin your paragraph with a clear topic sentence that states your opinion strongly and directly.  
+2. Separate your ideas into distinct sentences that explain why freedom of expression matters and how uniforms can cause discomfort.  
+3. Include the opposing viewpoint about uniforms helping discipline, then clearly explain why you disagree with it.  
+4. Add specific reasons or examples to support your points, such as how uniforms limit personality and may distract students.  
+5. Replace vague phrases with precise language that clearly explains your arguments.  
+6. Use transition words like “first,” “however,” and “therefore” to connect your ideas smoothly and improve the flow.",103,12,6,0,9,44.03025080906153,5,5,3
+1,combined,questions_first,"School uniforms should be banned because students need freedom to express themselves, but some people think uniforms help with discipline and focus. I believe they are unfair because not everyone feels comfortable wearing the same thing and it does not always improve behaviour.","Here is some clear, structured feedback to help you improve your paragraph:
+
+1. **State Your Opinion Clearly at the Start**  
+   Begin with a strong topic sentence that clearly expresses your main idea. For example:  
+   *“I believe school uniforms should be banned because they limit students’ freedom to express themselves and do not always improve behavior.”*
+
+2. **Organize Your Ideas into Separate Sentences**  
+   Break your paragraph into clear points:  
+   - Explain why freedom of expression matters to students.  
+   - Describe how uniforms can make students feel uncomfortable or restricted.  
+   - Acknowledge the opposing view that uniforms help with discipline and focus.  
+   - Explain why you disagree with that view, using reasons or examples.
+
+3. **Support Your Arguments with Reasons or Examples**  
+   Make your points stronger by adding explanations or specific examples, such as:  
+   - How wearing the same clothes every day can prevent students from showing their personalities.  
+   - Why discomfort from uniforms might distract students rather than help them behave better.  
+   - Why discipline depends more on personal responsibility than on clothing.
+
+4. **Use Clear and Precise Language**  
+   Replace vague phrases like “some people think” or “it does not always improve behaviour” with specific explanations. For example, say “many students feel uncomfortable wearing identical uniforms” or “uniforms do not guarantee better behavior because students may still misbehave regardless of their clothes.”
+
+5. **Improve Flow with Transition Words**  
+   Use words like “first,” “however,” and “therefore” to connect your ideas smoothly and guide the reader through your argument.
+
+By following these steps, your paragraph will be clearer, better organized, and more convincing. Keep up the good work!","What is your main opinion about school uniforms, and how can you express it more clearly at the beginning of your paragraph?  
+How can you organize your ideas so that each point is explained in its own sentence?  
+What specific reasons or examples can you add to support your argument and make it more convincing?
+
+1. Start with a strong topic sentence that clearly states your opinion, such as: “I believe school uniforms should be banned because they limit students’ freedom to express themselves and do not always improve behavior.”  
+2. Break your paragraph into separate sentences that explain each idea: why freedom of expression matters, how uniforms can cause discomfort, the opposing view on discipline, and why you disagree with it.  
+3. Add specific reasons or examples to support your points, like how uniforms restrict personality, why discomfort might distract students, and why discipline depends more on personal responsibility than clothing.",152,9,3,3,7,42.53350877192983,5,5,3
+2,critic,raw,"Climate change is getting worse and many countries still burn fossil fuels even though they know it is harmful. Governments talk about action but real changes are slow. People recycle and try to reduce waste, but it feels small compared to what big companies do.","1. Clarity: The paragraph contains vague phrases like ""getting worse,"" ""talk about action,"" and ""feels small."" Replace these with precise descriptions or examples to make your points clearer. For example, specify how climate change is worsening or what kind of actions governments discuss.
+
+2. Structure: The paragraph lacks a clear topic sentence and logical flow. Begin with a strong topic sentence that states your main argument. Then, organize your ideas so that each sentence builds on the previous one, moving from the problem (climate change and fossil fuel use) to responses (government actions and individual efforts).
+
+3. Strength of argument: The paragraph makes general claims without evidence or explanation. For instance, explain why government changes are slow or how individual recycling efforts compare to corporate actions. Adding specific examples or data will strengthen your argument.
+
+4. Suggestions for improvement: Rewrite the paragraph to start with a clear topic sentence. Use more precise language and provide examples or explanations to support your claims. Consider adding a concluding sentence that summarizes your point or suggests a solution. For example, mention a specific policy that governments have delayed or a major polluting company to illustrate your points.","1. Clarity: The paragraph contains vague phrases like ""getting worse,"" ""talk about action,"" and ""feels small."" Replace these with precise descriptions or examples to make your points clearer. For example, specify how climate change is worsening or what kind of actions governments discuss.
+
+2. Structure: The paragraph lacks a clear topic sentence and logical flow. Begin with a strong topic sentence that states your main argument. Then, organize your ideas so that each sentence builds on the previous one, moving from the problem (climate change and fossil fuel use) to responses (government actions and individual efforts).
+
+3. Strength of argument: The paragraph makes general claims without evidence or explanation. For instance, explain why government changes are slow or how individual recycling efforts compare to corporate actions. Adding specific examples or data will strengthen your argument.
+
+4. Suggestions for improvement: Rewrite the paragraph to start with a clear topic sentence. Use more precise language and provide examples or explanations to support your claims. Consider adding a concluding sentence that summarizes your point or suggests a solution. For example, mention a specific policy that governments have delayed or a major polluting company to illustrate your points.",194,17,4,0,8,43.42003568596354,4,5,3
+2,critic,short_actions,"Climate change is getting worse and many countries still burn fossil fuels even though they know it is harmful. Governments talk about action but real changes are slow. People recycle and try to reduce waste, but it feels small compared to what big companies do.","1. Clarity: The paragraph contains vague phrases like ""getting worse,"" ""talk about action,"" and ""feels small."" Replace these with precise descriptions or examples to make your points clearer. For example, specify how climate change is worsening or what kind of actions governments discuss.
+
+2. Structure: The paragraph lacks a clear topic sentence and logical flow. Begin with a strong topic sentence that states your main argument. Then, organize your ideas so that each sentence builds on the previous one, moving from the problem (climate change and fossil fuel use) to responses (government actions and individual efforts).
+
+3. Strength of argument: The paragraph makes general claims without evidence or explanation. For instance, explain why government changes are slow or how individual recycling efforts compare to corporate actions. Adding specific examples or data will strengthen your argument.
+
+4. Suggestions for improvement: Rewrite the paragraph to start with a clear topic sentence. Use more precise language and provide examples or explanations to support your claims. Consider adding a concluding sentence that summarizes your point or suggests a solution. For example, mention a specific policy that governments have delayed or a major polluting company to illustrate your points.","- Replace vague phrases with specific descriptions or examples.  
+- Start with a clear topic sentence stating your main argument.  
+- Organize sentences logically from problem to responses.  
+- Add evidence or explanations to support your claims.  
+- Include a concluding sentence that summarizes or suggests a solution.",43,5,5,0,5,38.743209302325596,5,5,3
+2,critic,step_by_step,"Climate change is getting worse and many countries still burn fossil fuels even though they know it is harmful. Governments talk about action but real changes are slow. People recycle and try to reduce waste, but it feels small compared to what big companies do.","1. Clarity: The paragraph contains vague phrases like ""getting worse,"" ""talk about action,"" and ""feels small."" Replace these with precise descriptions or examples to make your points clearer. For example, specify how climate change is worsening or what kind of actions governments discuss.
+
+2. Structure: The paragraph lacks a clear topic sentence and logical flow. Begin with a strong topic sentence that states your main argument. Then, organize your ideas so that each sentence builds on the previous one, moving from the problem (climate change and fossil fuel use) to responses (government actions and individual efforts).
+
+3. Strength of argument: The paragraph makes general claims without evidence or explanation. For instance, explain why government changes are slow or how individual recycling efforts compare to corporate actions. Adding specific examples or data will strengthen your argument.
+
+4. Suggestions for improvement: Rewrite the paragraph to start with a clear topic sentence. Use more precise language and provide examples or explanations to support your claims. Consider adding a concluding sentence that summarizes your point or suggests a solution. For example, mention a specific policy that governments have delayed or a major polluting company to illustrate your points.","1. Begin your paragraph with a clear topic sentence that states the main argument about climate change and fossil fuel use.  
+2. Replace vague phrases like ""getting worse,"" ""talk about action,"" and ""feels small"" with precise descriptions or specific examples.  
+3. Organize your ideas logically, moving from the problem of climate change and fossil fuel use to government responses and individual efforts.  
+4. Explain why government changes are slow and how individual recycling compares to corporate actions by adding evidence or examples.  
+5. Use specific data or examples, such as a delayed policy or a major polluting company, to strengthen your argument.  
+6. End with a concluding sentence that summarizes your point or suggests a possible solution to the issue.",120,12,6,0,6,37.78000000000003,5,5,3
+2,critic,questions_first,"Climate change is getting worse and many countries still burn fossil fuels even though they know it is harmful. Governments talk about action but real changes are slow. People recycle and try to reduce waste, but it feels small compared to what big companies do.","1. Clarity: The paragraph contains vague phrases like ""getting worse,"" ""talk about action,"" and ""feels small."" Replace these with precise descriptions or examples to make your points clearer. For example, specify how climate change is worsening or what kind of actions governments discuss.
+
+2. Structure: The paragraph lacks a clear topic sentence and logical flow. Begin with a strong topic sentence that states your main argument. Then, organize your ideas so that each sentence builds on the previous one, moving from the problem (climate change and fossil fuel use) to responses (government actions and individual efforts).
+
+3. Strength of argument: The paragraph makes general claims without evidence or explanation. For instance, explain why government changes are slow or how individual recycling efforts compare to corporate actions. Adding specific examples or data will strengthen your argument.
+
+4. Suggestions for improvement: Rewrite the paragraph to start with a clear topic sentence. Use more precise language and provide examples or explanations to support your claims. Consider adding a concluding sentence that summarizes your point or suggests a solution. For example, mention a specific policy that governments have delayed or a major polluting company to illustrate your points.","What specific examples can you include to show how climate change is worsening? How can you organize your ideas to create a clearer flow from the problem to the responses? In what ways can you support your claims with evidence or explanations to make your argument stronger?
+
+1. Begin your paragraph with a clear topic sentence that states your main argument about climate change and its challenges.  
+2. Replace vague phrases like ""getting worse"" and ""talk about action"" with precise descriptions or examples, such as specific climate impacts or government policies.  
+3. Add evidence or explanations to support your points—for example, explain why government changes are slow or compare the impact of individual recycling efforts to corporate pollution.",119,9,3,3,8,43.48350282485876,5,5,3
+2,explainer,raw,"Climate change is getting worse and many countries still burn fossil fuels even though they know it is harmful. Governments talk about action but real changes are slow. People recycle and try to reduce waste, but it feels small compared to what big companies do.","Here is detailed feedback based on your paragraph and the rubric:
+
+1. Clarity:
+- Your ideas are clear but a bit general. Try to be more specific about what you mean by “getting worse” and “real changes are slow.”
+- Example: Instead of “Climate change is getting worse,” you could say “Global temperatures have risen by 1.2 degrees Celsius in the past century, causing more extreme weather.”
+
+2. Structure:
+- Your paragraph has a basic structure but could be improved by grouping similar ideas together and using transition words.
+- For example, start with the problem (climate change and fossil fuels), then discuss government actions, then individual actions, and finally the gap between efforts.
+- Use transition words like “however,” “although,” or “despite” to connect ideas smoothly.
+
+3. Strength of Argument:
+- Your argument is that individual efforts feel small compared to big companies, but you don’t provide examples or evidence.
+- Add a specific example or fact, such as “Big companies are responsible for nearly 70% of global carbon emissions, which makes individual recycling efforts seem less impactful.”
+- This will make your argument stronger and more convincing.
+
+4. Suggestions for Improvement:
+- Add specific facts or statistics to support your points.
+- Use transition words to improve flow.
+- Clarify vague phrases by explaining them or giving examples.
+- Consider ending with a sentence that suggests a solution or calls for stronger action.
+
+Revised example paragraph:
+
+Climate change is becoming more severe, with global temperatures rising by 1.2 degrees Celsius in the last century, leading to extreme weather events. Despite knowing this, many countries continue to burn fossil fuels, which release harmful greenhouse gases. Governments often talk about taking action; however, real policy changes and reductions in emissions have been slow. While individuals recycle and try to reduce waste, these efforts seem small compared to the impact of big companies, which are responsible for nearly 70% of global carbon emissions. To effectively combat climate change, stronger regulations on corporations and increased global cooperation are necessary.
+
+Try revising your paragraph using these tips!","Here is detailed feedback based on your paragraph and the rubric:
+
+1. Clarity:
+- Your ideas are clear but a bit general. Try to be more specific about what you mean by “getting worse” and “real changes are slow.”
+- Example: Instead of “Climate change is getting worse,” you could say “Global temperatures have risen by 1.2 degrees Celsius in the past century, causing more extreme weather.”
+
+2. Structure:
+- Your paragraph has a basic structure but could be improved by grouping similar ideas together and using transition words.
+- For example, start with the problem (climate change and fossil fuels), then discuss government actions, then individual actions, and finally the gap between efforts.
+- Use transition words like “however,” “although,” or “despite” to connect ideas smoothly.
+
+3. Strength of Argument:
+- Your argument is that individual efforts feel small compared to big companies, but you don’t provide examples or evidence.
+- Add a specific example or fact, such as “Big companies are responsible for nearly 70% of global carbon emissions, which makes individual recycling efforts seem less impactful.”
+- This will make your argument stronger and more convincing.
+
+4. Suggestions for Improvement:
+- Add specific facts or statistics to support your points.
+- Use transition words to improve flow.
+- Clarify vague phrases by explaining them or giving examples.
+- Consider ending with a sentence that suggests a solution or calls for stronger action.
+
+Revised example paragraph:
+
+Climate change is becoming more severe, with global temperatures rising by 1.2 degrees Celsius in the last century, leading to extreme weather events. Despite knowing this, many countries continue to burn fossil fuels, which release harmful greenhouse gases. Governments often talk about taking action; however, real policy changes and reductions in emissions have been slow. While individuals recycle and try to reduce waste, these efforts seem small compared to the impact of big companies, which are responsible for nearly 70% of global carbon emissions. To effectively combat climate change, stronger regulations on corporations and increased global cooperation are necessary.
+
+Try revising your paragraph using these tips!",335,25,16,0,8,43.72254654983573,4,5,3
+2,explainer,short_actions,"Climate change is getting worse and many countries still burn fossil fuels even though they know it is harmful. Governments talk about action but real changes are slow. People recycle and try to reduce waste, but it feels small compared to what big companies do.","Here is detailed feedback based on your paragraph and the rubric:
+
+1. Clarity:
+- Your ideas are clear but a bit general. Try to be more specific about what you mean by “getting worse” and “real changes are slow.”
+- Example: Instead of “Climate change is getting worse,” you could say “Global temperatures have risen by 1.2 degrees Celsius in the past century, causing more extreme weather.”
+
+2. Structure:
+- Your paragraph has a basic structure but could be improved by grouping similar ideas together and using transition words.
+- For example, start with the problem (climate change and fossil fuels), then discuss government actions, then individual actions, and finally the gap between efforts.
+- Use transition words like “however,” “although,” or “despite” to connect ideas smoothly.
+
+3. Strength of Argument:
+- Your argument is that individual efforts feel small compared to big companies, but you don’t provide examples or evidence.
+- Add a specific example or fact, such as “Big companies are responsible for nearly 70% of global carbon emissions, which makes individual recycling efforts seem less impactful.”
+- This will make your argument stronger and more convincing.
+
+4. Suggestions for Improvement:
+- Add specific facts or statistics to support your points.
+- Use transition words to improve flow.
+- Clarify vague phrases by explaining them or giving examples.
+- Consider ending with a sentence that suggests a solution or calls for stronger action.
+
+Revised example paragraph:
+
+Climate change is becoming more severe, with global temperatures rising by 1.2 degrees Celsius in the last century, leading to extreme weather events. Despite knowing this, many countries continue to burn fossil fuels, which release harmful greenhouse gases. Governments often talk about taking action; however, real policy changes and reductions in emissions have been slow. While individuals recycle and try to reduce waste, these efforts seem small compared to the impact of big companies, which are responsible for nearly 70% of global carbon emissions. To effectively combat climate change, stronger regulations on corporations and increased global cooperation are necessary.
+
+Try revising your paragraph using these tips!","- Specify vague phrases like “getting worse” by adding concrete data or examples.  
+- Organize ideas logically: start with the problem, then government actions, individual efforts, and the gap between them.  
+- Use transition words (e.g., however, although) to connect sentences smoothly.  
+- Strengthen your argument by including facts or statistics about company emissions.  
+- End with a call to action or a suggested solution to enhance impact.",64,7,5,0,3,40.406071428571465,5,5,3
+2,explainer,step_by_step,"Climate change is getting worse and many countries still burn fossil fuels even though they know it is harmful. Governments talk about action but real changes are slow. People recycle and try to reduce waste, but it feels small compared to what big companies do.","Here is detailed feedback based on your paragraph and the rubric:
+
+1. Clarity:
+- Your ideas are clear but a bit general. Try to be more specific about what you mean by “getting worse” and “real changes are slow.”
+- Example: Instead of “Climate change is getting worse,” you could say “Global temperatures have risen by 1.2 degrees Celsius in the past century, causing more extreme weather.”
+
+2. Structure:
+- Your paragraph has a basic structure but could be improved by grouping similar ideas together and using transition words.
+- For example, start with the problem (climate change and fossil fuels), then discuss government actions, then individual actions, and finally the gap between efforts.
+- Use transition words like “however,” “although,” or “despite” to connect ideas smoothly.
+
+3. Strength of Argument:
+- Your argument is that individual efforts feel small compared to big companies, but you don’t provide examples or evidence.
+- Add a specific example or fact, such as “Big companies are responsible for nearly 70% of global carbon emissions, which makes individual recycling efforts seem less impactful.”
+- This will make your argument stronger and more convincing.
+
+4. Suggestions for Improvement:
+- Add specific facts or statistics to support your points.
+- Use transition words to improve flow.
+- Clarify vague phrases by explaining them or giving examples.
+- Consider ending with a sentence that suggests a solution or calls for stronger action.
+
+Revised example paragraph:
+
+Climate change is becoming more severe, with global temperatures rising by 1.2 degrees Celsius in the last century, leading to extreme weather events. Despite knowing this, many countries continue to burn fossil fuels, which release harmful greenhouse gases. Governments often talk about taking action; however, real policy changes and reductions in emissions have been slow. While individuals recycle and try to reduce waste, these efforts seem small compared to the impact of big companies, which are responsible for nearly 70% of global carbon emissions. To effectively combat climate change, stronger regulations on corporations and increased global cooperation are necessary.
+
+Try revising your paragraph using these tips!","1. Specify what you mean by “getting worse” and “real changes are slow” by adding clear facts or examples.  
+2. Organize your paragraph by grouping similar ideas together: start with the problem, then government actions, individual actions, and the gap between efforts.  
+3. Use transition words like “however,” “although,” or “despite” to connect your ideas smoothly.  
+4. Strengthen your argument by including specific examples or statistics, such as the percentage of emissions from big companies.  
+5. Clarify vague phrases by explaining them further or providing concrete examples.  
+6. End your paragraph with a sentence that suggests a solution or calls for stronger action to address climate change.",107,12,6,0,4,43.25379283489099,5,5,3
+2,explainer,questions_first,"Climate change is getting worse and many countries still burn fossil fuels even though they know it is harmful. Governments talk about action but real changes are slow. People recycle and try to reduce waste, but it feels small compared to what big companies do.","Here is detailed feedback based on your paragraph and the rubric:
+
+1. Clarity:
+- Your ideas are clear but a bit general. Try to be more specific about what you mean by “getting worse” and “real changes are slow.”
+- Example: Instead of “Climate change is getting worse,” you could say “Global temperatures have risen by 1.2 degrees Celsius in the past century, causing more extreme weather.”
+
+2. Structure:
+- Your paragraph has a basic structure but could be improved by grouping similar ideas together and using transition words.
+- For example, start with the problem (climate change and fossil fuels), then discuss government actions, then individual actions, and finally the gap between efforts.
+- Use transition words like “however,” “although,” or “despite” to connect ideas smoothly.
+
+3. Strength of Argument:
+- Your argument is that individual efforts feel small compared to big companies, but you don’t provide examples or evidence.
+- Add a specific example or fact, such as “Big companies are responsible for nearly 70% of global carbon emissions, which makes individual recycling efforts seem less impactful.”
+- This will make your argument stronger and more convincing.
+
+4. Suggestions for Improvement:
+- Add specific facts or statistics to support your points.
+- Use transition words to improve flow.
+- Clarify vague phrases by explaining them or giving examples.
+- Consider ending with a sentence that suggests a solution or calls for stronger action.
+
+Revised example paragraph:
+
+Climate change is becoming more severe, with global temperatures rising by 1.2 degrees Celsius in the last century, leading to extreme weather events. Despite knowing this, many countries continue to burn fossil fuels, which release harmful greenhouse gases. Governments often talk about taking action; however, real policy changes and reductions in emissions have been slow. While individuals recycle and try to reduce waste, these efforts seem small compared to the impact of big companies, which are responsible for nearly 70% of global carbon emissions. To effectively combat climate change, stronger regulations on corporations and increased global cooperation are necessary.
+
+Try revising your paragraph using these tips!","What specific examples or facts can you add to make your points clearer and more convincing?  
+How can you organize your ideas to show the relationship between government actions, individual efforts, and the role of big companies?  
+What transition words might help your paragraph flow more smoothly from one idea to the next?
+
+1. Include precise data or examples, such as statistics on temperature rise or emissions by companies, to support your statements.  
+2. Group related ideas together by discussing the problem first, then government responses, followed by individual actions, and finally the gap between efforts.  
+3. Use transition words like “however,” “although,” or “despite” to connect your sentences and improve the overall flow of your paragraph.",117,9,3,3,7,41.70403846153849,5,5,3
+2,supporter,raw,"Climate change is getting worse and many countries still burn fossil fuels even though they know it is harmful. Governments talk about action but real changes are slow. People recycle and try to reduce waste, but it feels small compared to what big companies do.","You’ve made a strong start by clearly stating the problem of climate change and pointing out different groups’ roles, which helps the reader understand the issue. Your ideas flow logically from the global level (countries and governments) to individuals, which gives your paragraph a clear structure.
+
+To improve your paragraph, try these steps:
+
+1. **Increase clarity by adding specific examples or details.** For instance, mention a particular country or company to make your points more concrete and persuasive.
+
+2. **Strengthen your argument by explaining why government actions are slow or why individual efforts feel small.** This will help the reader understand the challenges better.
+
+3. **Improve sentence variety and transitions.** Instead of starting multiple sentences with “People” or “Governments,” vary your sentence openings and use connecting words like “however” or “although” to make your writing smoother.
+
+After revising, your paragraph might include clearer examples, more explanation, and smoother flow, making your argument more compelling. Keep up the good work!","You’ve made a strong start by clearly stating the problem of climate change and pointing out different groups’ roles, which helps the reader understand the issue. Your ideas flow logically from the global level (countries and governments) to individuals, which gives your paragraph a clear structure.
+
+To improve your paragraph, try these steps:
+
+1. **Increase clarity by adding specific examples or details.** For instance, mention a particular country or company to make your points more concrete and persuasive.
+
+2. **Strengthen your argument by explaining why government actions are slow or why individual efforts feel small.** This will help the reader understand the challenges better.
+
+3. **Improve sentence variety and transitions.** Instead of starting multiple sentences with “People” or “Governments,” vary your sentence openings and use connecting words like “however” or “although” to make your writing smoother.
+
+After revising, your paragraph might include clearer examples, more explanation, and smoother flow, making your argument more compelling. Keep up the good work!",160,13,3,0,4,46.374957118353365,5,4,3
+2,supporter,short_actions,"Climate change is getting worse and many countries still burn fossil fuels even though they know it is harmful. Governments talk about action but real changes are slow. People recycle and try to reduce waste, but it feels small compared to what big companies do.","You’ve made a strong start by clearly stating the problem of climate change and pointing out different groups’ roles, which helps the reader understand the issue. Your ideas flow logically from the global level (countries and governments) to individuals, which gives your paragraph a clear structure.
+
+To improve your paragraph, try these steps:
+
+1. **Increase clarity by adding specific examples or details.** For instance, mention a particular country or company to make your points more concrete and persuasive.
+
+2. **Strengthen your argument by explaining why government actions are slow or why individual efforts feel small.** This will help the reader understand the challenges better.
+
+3. **Improve sentence variety and transitions.** Instead of starting multiple sentences with “People” or “Governments,” vary your sentence openings and use connecting words like “however” or “although” to make your writing smoother.
+
+After revising, your paragraph might include clearer examples, more explanation, and smoother flow, making your argument more compelling. Keep up the good work!","- Add specific examples of countries or companies to clarify your points.  
+- Explain why government actions are slow and why individual efforts seem small.  
+- Vary sentence beginnings to avoid repetition.  
+- Use transition words like ""however"" or ""although"" to improve flow.",39,4,4,0,6,42.92336538461541,5,5,3
+2,supporter,step_by_step,"Climate change is getting worse and many countries still burn fossil fuels even though they know it is harmful. Governments talk about action but real changes are slow. People recycle and try to reduce waste, but it feels small compared to what big companies do.","You’ve made a strong start by clearly stating the problem of climate change and pointing out different groups’ roles, which helps the reader understand the issue. Your ideas flow logically from the global level (countries and governments) to individuals, which gives your paragraph a clear structure.
+
+To improve your paragraph, try these steps:
+
+1. **Increase clarity by adding specific examples or details.** For instance, mention a particular country or company to make your points more concrete and persuasive.
+
+2. **Strengthen your argument by explaining why government actions are slow or why individual efforts feel small.** This will help the reader understand the challenges better.
+
+3. **Improve sentence variety and transitions.** Instead of starting multiple sentences with “People” or “Governments,” vary your sentence openings and use connecting words like “however” or “although” to make your writing smoother.
+
+After revising, your paragraph might include clearer examples, more explanation, and smoother flow, making your argument more compelling. Keep up the good work!","1. Add specific examples or details, such as naming a particular country or company, to make your points clearer and more persuasive.  
+2. Explain why government actions are slow to help the reader understand the challenges involved.  
+3. Describe why individual efforts feel small compared to larger actions to strengthen your argument.  
+4. Vary your sentence openings to avoid repetition and make your writing more engaging.  
+5. Use transition words like “however” or “although” to connect ideas smoothly between sentences.  
+6. Review your paragraph to ensure it includes clearer examples, more explanation, and improved flow for a stronger overall argument.",100,12,6,0,5,40.17633333333336,5,5,3
+2,supporter,questions_first,"Climate change is getting worse and many countries still burn fossil fuels even though they know it is harmful. Governments talk about action but real changes are slow. People recycle and try to reduce waste, but it feels small compared to what big companies do.","You’ve made a strong start by clearly stating the problem of climate change and pointing out different groups’ roles, which helps the reader understand the issue. Your ideas flow logically from the global level (countries and governments) to individuals, which gives your paragraph a clear structure.
+
+To improve your paragraph, try these steps:
+
+1. **Increase clarity by adding specific examples or details.** For instance, mention a particular country or company to make your points more concrete and persuasive.
+
+2. **Strengthen your argument by explaining why government actions are slow or why individual efforts feel small.** This will help the reader understand the challenges better.
+
+3. **Improve sentence variety and transitions.** Instead of starting multiple sentences with “People” or “Governments,” vary your sentence openings and use connecting words like “however” or “although” to make your writing smoother.
+
+After revising, your paragraph might include clearer examples, more explanation, and smoother flow, making your argument more compelling. Keep up the good work!","What specific examples can you add to make your points about countries, governments, or companies clearer? How can you explain the reasons behind slow government action or why individual efforts seem small? In what ways can you vary your sentence structure and use transitions to improve the flow of your paragraph?
+
+To strengthen your paragraph, try these steps:  
+1. Add concrete examples, such as naming a particular country or company, to make your argument more vivid and convincing.  
+2. Elaborate on why government responses are slow or why individual actions may feel insufficient, helping readers grasp the complexities of the issue.  
+3. Vary how you begin sentences and incorporate transition words like “however” or “although” to create smoother connections between ideas.",121,9,3,3,5,43.861900826446316,5,5,3
+2,planner,raw,"Climate change is getting worse and many countries still burn fossil fuels even though they know it is harmful. Governments talk about action but real changes are slow. People recycle and try to reduce waste, but it feels small compared to what big companies do.","Here is some feedback you can use to improve your paragraph:
+
+1. Clarity:
+- Your main idea is clear: climate change is worsening and actions to stop it are insufficient. However, some sentences could be clearer. For example, “Governments talk about action but real changes are slow” could be more specific by explaining what kind of actions or changes you mean.
+- Try to avoid vague phrases like “it feels small” and instead explain why individual actions seem less impactful.
+
+2. Structure:
+- The paragraph would be stronger if you organized it logically. Start with the problem (climate change getting worse), then explain the causes (countries burning fossil fuels), followed by the responses (government talks and individual efforts), and end with your conclusion or opinion.
+- Each sentence should connect smoothly to the next. For example, after mentioning fossil fuels, explain why governments’ slow changes matter, then discuss individual efforts.
+
+3. Strength of argument:
+- You make good points, but your argument would be stronger with examples or evidence. For instance, name some countries still heavily reliant on fossil fuels or mention specific government policies that are slow to change.
+- Explain why individual actions like recycling are not enough compared to big companies. This will make your argument more convincing.
+
+4. Suggestions for improvement:
+- Revise the paragraph to follow this order: state the worsening climate change problem, identify the main causes, describe government and individual responses, and conclude with why more action is needed.
+- Add specific examples or facts to support your points.
+- Use clearer language and avoid vague expressions.
+- Try combining some sentences to improve flow, for example: “Although many countries still burn fossil fuels despite knowing the harm, government actions to reduce this are slow, and individual efforts like recycling seem small compared to the impact of big companies.”
+
+With these changes, your paragraph will be clearer, better organized, and more persuasive.","Here is some feedback you can use to improve your paragraph:
+
+1. Clarity:
+- Your main idea is clear: climate change is worsening and actions to stop it are insufficient. However, some sentences could be clearer. For example, “Governments talk about action but real changes are slow” could be more specific by explaining what kind of actions or changes you mean.
+- Try to avoid vague phrases like “it feels small” and instead explain why individual actions seem less impactful.
+
+2. Structure:
+- The paragraph would be stronger if you organized it logically. Start with the problem (climate change getting worse), then explain the causes (countries burning fossil fuels), followed by the responses (government talks and individual efforts), and end with your conclusion or opinion.
+- Each sentence should connect smoothly to the next. For example, after mentioning fossil fuels, explain why governments’ slow changes matter, then discuss individual efforts.
+
+3. Strength of argument:
+- You make good points, but your argument would be stronger with examples or evidence. For instance, name some countries still heavily reliant on fossil fuels or mention specific government policies that are slow to change.
+- Explain why individual actions like recycling are not enough compared to big companies. This will make your argument more convincing.
+
+4. Suggestions for improvement:
+- Revise the paragraph to follow this order: state the worsening climate change problem, identify the main causes, describe government and individual responses, and conclude with why more action is needed.
+- Add specific examples or facts to support your points.
+- Use clearer language and avoid vague expressions.
+- Try combining some sentences to improve flow, for example: “Although many countries still burn fossil fuels despite knowing the harm, government actions to reduce this are slow, and individual efforts like recycling seem small compared to the impact of big companies.”
+
+With these changes, your paragraph will be clearer, better organized, and more persuasive.",309,21,14,0,16,45.94675566343045,4,5,3
+2,planner,short_actions,"Climate change is getting worse and many countries still burn fossil fuels even though they know it is harmful. Governments talk about action but real changes are slow. People recycle and try to reduce waste, but it feels small compared to what big companies do.","Here is some feedback you can use to improve your paragraph:
+
+1. Clarity:
+- Your main idea is clear: climate change is worsening and actions to stop it are insufficient. However, some sentences could be clearer. For example, “Governments talk about action but real changes are slow” could be more specific by explaining what kind of actions or changes you mean.
+- Try to avoid vague phrases like “it feels small” and instead explain why individual actions seem less impactful.
+
+2. Structure:
+- The paragraph would be stronger if you organized it logically. Start with the problem (climate change getting worse), then explain the causes (countries burning fossil fuels), followed by the responses (government talks and individual efforts), and end with your conclusion or opinion.
+- Each sentence should connect smoothly to the next. For example, after mentioning fossil fuels, explain why governments’ slow changes matter, then discuss individual efforts.
+
+3. Strength of argument:
+- You make good points, but your argument would be stronger with examples or evidence. For instance, name some countries still heavily reliant on fossil fuels or mention specific government policies that are slow to change.
+- Explain why individual actions like recycling are not enough compared to big companies. This will make your argument more convincing.
+
+4. Suggestions for improvement:
+- Revise the paragraph to follow this order: state the worsening climate change problem, identify the main causes, describe government and individual responses, and conclude with why more action is needed.
+- Add specific examples or facts to support your points.
+- Use clearer language and avoid vague expressions.
+- Try combining some sentences to improve flow, for example: “Although many countries still burn fossil fuels despite knowing the harm, government actions to reduce this are slow, and individual efforts like recycling seem small compared to the impact of big companies.”
+
+With these changes, your paragraph will be clearer, better organized, and more persuasive.","- Clarify vague phrases by explaining specific actions or reasons (e.g., what government changes are slow, why individual efforts seem small).  
+- Organize the paragraph logically: start with the problem, then causes, responses, and conclude with your opinion.  
+- Connect sentences smoothly to improve flow and coherence.  
+- Add specific examples or evidence to strengthen your argument (e.g., name countries or policies).  
+- Combine sentences where possible to create clearer and more concise statements.",71,9,5,0,7,41.116956521739155,5,5,3
+2,planner,step_by_step,"Climate change is getting worse and many countries still burn fossil fuels even though they know it is harmful. Governments talk about action but real changes are slow. People recycle and try to reduce waste, but it feels small compared to what big companies do.","Here is some feedback you can use to improve your paragraph:
+
+1. Clarity:
+- Your main idea is clear: climate change is worsening and actions to stop it are insufficient. However, some sentences could be clearer. For example, “Governments talk about action but real changes are slow” could be more specific by explaining what kind of actions or changes you mean.
+- Try to avoid vague phrases like “it feels small” and instead explain why individual actions seem less impactful.
+
+2. Structure:
+- The paragraph would be stronger if you organized it logically. Start with the problem (climate change getting worse), then explain the causes (countries burning fossil fuels), followed by the responses (government talks and individual efforts), and end with your conclusion or opinion.
+- Each sentence should connect smoothly to the next. For example, after mentioning fossil fuels, explain why governments’ slow changes matter, then discuss individual efforts.
+
+3. Strength of argument:
+- You make good points, but your argument would be stronger with examples or evidence. For instance, name some countries still heavily reliant on fossil fuels or mention specific government policies that are slow to change.
+- Explain why individual actions like recycling are not enough compared to big companies. This will make your argument more convincing.
+
+4. Suggestions for improvement:
+- Revise the paragraph to follow this order: state the worsening climate change problem, identify the main causes, describe government and individual responses, and conclude with why more action is needed.
+- Add specific examples or facts to support your points.
+- Use clearer language and avoid vague expressions.
+- Try combining some sentences to improve flow, for example: “Although many countries still burn fossil fuels despite knowing the harm, government actions to reduce this are slow, and individual efforts like recycling seem small compared to the impact of big companies.”
+
+With these changes, your paragraph will be clearer, better organized, and more persuasive.","1. Begin your paragraph by clearly stating that climate change is worsening and explain why this is a serious problem.  
+2. Identify the main causes, such as countries continuing to burn fossil fuels, and provide specific examples to support this point.  
+3. Describe government responses by specifying the types of actions they talk about and explain why real changes are slow.  
+4. Discuss individual efforts like recycling, explaining why these actions may seem less impactful compared to the activities of big companies.  
+5. Organize your sentences logically so each idea flows smoothly to the next, linking causes to responses and then to your conclusion.  
+6. Use clear, specific language throughout and avoid vague phrases by adding examples or facts to strengthen your argument.",123,12,6,0,6,41.5884756097561,5,5,3
+2,planner,questions_first,"Climate change is getting worse and many countries still burn fossil fuels even though they know it is harmful. Governments talk about action but real changes are slow. People recycle and try to reduce waste, but it feels small compared to what big companies do.","Here is some feedback you can use to improve your paragraph:
+
+1. Clarity:
+- Your main idea is clear: climate change is worsening and actions to stop it are insufficient. However, some sentences could be clearer. For example, “Governments talk about action but real changes are slow” could be more specific by explaining what kind of actions or changes you mean.
+- Try to avoid vague phrases like “it feels small” and instead explain why individual actions seem less impactful.
+
+2. Structure:
+- The paragraph would be stronger if you organized it logically. Start with the problem (climate change getting worse), then explain the causes (countries burning fossil fuels), followed by the responses (government talks and individual efforts), and end with your conclusion or opinion.
+- Each sentence should connect smoothly to the next. For example, after mentioning fossil fuels, explain why governments’ slow changes matter, then discuss individual efforts.
+
+3. Strength of argument:
+- You make good points, but your argument would be stronger with examples or evidence. For instance, name some countries still heavily reliant on fossil fuels or mention specific government policies that are slow to change.
+- Explain why individual actions like recycling are not enough compared to big companies. This will make your argument more convincing.
+
+4. Suggestions for improvement:
+- Revise the paragraph to follow this order: state the worsening climate change problem, identify the main causes, describe government and individual responses, and conclude with why more action is needed.
+- Add specific examples or facts to support your points.
+- Use clearer language and avoid vague expressions.
+- Try combining some sentences to improve flow, for example: “Although many countries still burn fossil fuels despite knowing the harm, government actions to reduce this are slow, and individual efforts like recycling seem small compared to the impact of big companies.”
+
+With these changes, your paragraph will be clearer, better organized, and more persuasive.","What specific actions or changes do you think governments should make to address climate change more effectively? How can you explain the difference in impact between individual efforts and big companies more clearly? In what order can you organize your ideas to make your paragraph flow better and strengthen your argument?
+
+1. Clarify your sentences by specifying what kinds of government actions or changes you mean, and explain why individual efforts like recycling seem less impactful compared to big companies.  
+2. Organize your paragraph logically: start with the problem of worsening climate change, then discuss the causes (such as fossil fuel use), followed by government and individual responses, and finish with your conclusion or opinion.  
+3. Support your points with specific examples or facts, like naming countries that still rely heavily on fossil fuels or mentioning particular government policies that are slow to change, to make your argument more convincing.",150,9,3,3,7,33.128000000000014,5,5,3
+2,combined,raw,"Climate change is getting worse and many countries still burn fossil fuels even though they know it is harmful. Governments talk about action but real changes are slow. People recycle and try to reduce waste, but it feels small compared to what big companies do.","Here is clear, combined feedback to help you improve your paragraph:
+
+1. **Clarify Your Ideas**  
+   - Replace vague phrases like “getting worse” and “feels small” with specific details or examples.  
+   - For example, say “Global temperatures have risen by 1.2°C in the last century, causing more extreme weather” instead of “climate change is getting worse.”  
+   - Explain why government changes are slow and why individual actions seem less impactful.
+
+2. **Organize Your Paragraph Clearly**  
+   - Start with a strong topic sentence stating your main argument about climate change and insufficient action.  
+   - Follow a logical order: describe the problem (climate change and fossil fuel use), then government responses, then individual efforts, and finish with your conclusion or opinion.  
+   - Use transition words like “however,” “although,” or “despite” to connect ideas smoothly.
+
+3. **Strengthen Your Argument with Examples and Evidence**  
+   - Support your points with specific facts or examples, such as naming countries still reliant on fossil fuels or citing that big companies contribute nearly 70% of global carbon emissions.  
+   - Explain why individual efforts like recycling, while important, are limited compared to corporate impact.
+
+4. **Improve Sentence Variety and Flow**  
+   - Vary how you start sentences to avoid repetition (avoid starting many sentences with “People” or “Governments”).  
+   - Combine related ideas to make your writing smoother and more engaging.
+
+5. **End with a Clear Conclusion or Call to Action**  
+   - Summarize your main point or suggest a solution, such as stronger government regulations or increased global cooperation to combat climate change effectively.
+
+By following these steps, your paragraph will be clearer, better structured, and more persuasive. Keep up the good work!","Here is clear, combined feedback to help you improve your paragraph:
+
+1. **Clarify Your Ideas**  
+   - Replace vague phrases like “getting worse” and “feels small” with specific details or examples.  
+   - For example, say “Global temperatures have risen by 1.2°C in the last century, causing more extreme weather” instead of “climate change is getting worse.”  
+   - Explain why government changes are slow and why individual actions seem less impactful.
+
+2. **Organize Your Paragraph Clearly**  
+   - Start with a strong topic sentence stating your main argument about climate change and insufficient action.  
+   - Follow a logical order: describe the problem (climate change and fossil fuel use), then government responses, then individual efforts, and finish with your conclusion or opinion.  
+   - Use transition words like “however,” “although,” or “despite” to connect ideas smoothly.
+
+3. **Strengthen Your Argument with Examples and Evidence**  
+   - Support your points with specific facts or examples, such as naming countries still reliant on fossil fuels or citing that big companies contribute nearly 70% of global carbon emissions.  
+   - Explain why individual efforts like recycling, while important, are limited compared to corporate impact.
+
+4. **Improve Sentence Variety and Flow**  
+   - Vary how you start sentences to avoid repetition (avoid starting many sentences with “People” or “Governments”).  
+   - Combine related ideas to make your writing smoother and more engaging.
+
+5. **End with a Clear Conclusion or Call to Action**  
+   - Summarize your main point or suggest a solution, such as stronger government regulations or increased global cooperation to combat climate change effectively.
+
+By following these steps, your paragraph will be clearer, better structured, and more persuasive. Keep up the good work!",262,19,16,0,15,39.890128205128235,5,5,3
+2,combined,short_actions,"Climate change is getting worse and many countries still burn fossil fuels even though they know it is harmful. Governments talk about action but real changes are slow. People recycle and try to reduce waste, but it feels small compared to what big companies do.","Here is clear, combined feedback to help you improve your paragraph:
+
+1. **Clarify Your Ideas**  
+   - Replace vague phrases like “getting worse” and “feels small” with specific details or examples.  
+   - For example, say “Global temperatures have risen by 1.2°C in the last century, causing more extreme weather” instead of “climate change is getting worse.”  
+   - Explain why government changes are slow and why individual actions seem less impactful.
+
+2. **Organize Your Paragraph Clearly**  
+   - Start with a strong topic sentence stating your main argument about climate change and insufficient action.  
+   - Follow a logical order: describe the problem (climate change and fossil fuel use), then government responses, then individual efforts, and finish with your conclusion or opinion.  
+   - Use transition words like “however,” “although,” or “despite” to connect ideas smoothly.
+
+3. **Strengthen Your Argument with Examples and Evidence**  
+   - Support your points with specific facts or examples, such as naming countries still reliant on fossil fuels or citing that big companies contribute nearly 70% of global carbon emissions.  
+   - Explain why individual efforts like recycling, while important, are limited compared to corporate impact.
+
+4. **Improve Sentence Variety and Flow**  
+   - Vary how you start sentences to avoid repetition (avoid starting many sentences with “People” or “Governments”).  
+   - Combine related ideas to make your writing smoother and more engaging.
+
+5. **End with a Clear Conclusion or Call to Action**  
+   - Summarize your main point or suggest a solution, such as stronger government regulations or increased global cooperation to combat climate change effectively.
+
+By following these steps, your paragraph will be clearer, better structured, and more persuasive. Keep up the good work!","- Replace vague phrases with specific details or examples.  
+- Organize ideas with a clear topic sentence and logical order.  
+- Add facts or evidence to support your points.  
+- Vary sentence beginnings and combine related ideas for better flow.  
+- End with a clear conclusion or call to action.",45,5,5,0,5,52.940000000000026,5,5,3
+2,combined,step_by_step,"Climate change is getting worse and many countries still burn fossil fuels even though they know it is harmful. Governments talk about action but real changes are slow. People recycle and try to reduce waste, but it feels small compared to what big companies do.","Here is clear, combined feedback to help you improve your paragraph:
+
+1. **Clarify Your Ideas**  
+   - Replace vague phrases like “getting worse” and “feels small” with specific details or examples.  
+   - For example, say “Global temperatures have risen by 1.2°C in the last century, causing more extreme weather” instead of “climate change is getting worse.”  
+   - Explain why government changes are slow and why individual actions seem less impactful.
+
+2. **Organize Your Paragraph Clearly**  
+   - Start with a strong topic sentence stating your main argument about climate change and insufficient action.  
+   - Follow a logical order: describe the problem (climate change and fossil fuel use), then government responses, then individual efforts, and finish with your conclusion or opinion.  
+   - Use transition words like “however,” “although,” or “despite” to connect ideas smoothly.
+
+3. **Strengthen Your Argument with Examples and Evidence**  
+   - Support your points with specific facts or examples, such as naming countries still reliant on fossil fuels or citing that big companies contribute nearly 70% of global carbon emissions.  
+   - Explain why individual efforts like recycling, while important, are limited compared to corporate impact.
+
+4. **Improve Sentence Variety and Flow**  
+   - Vary how you start sentences to avoid repetition (avoid starting many sentences with “People” or “Governments”).  
+   - Combine related ideas to make your writing smoother and more engaging.
+
+5. **End with a Clear Conclusion or Call to Action**  
+   - Summarize your main point or suggest a solution, such as stronger government regulations or increased global cooperation to combat climate change effectively.
+
+By following these steps, your paragraph will be clearer, better structured, and more persuasive. Keep up the good work!","1. Replace vague phrases like “getting worse” and “feels small” with specific details or examples to clarify your ideas.  
+2. Begin with a strong topic sentence that clearly states your main argument about climate change and insufficient action.  
+3. Organize your paragraph logically by discussing the problem, government responses, individual efforts, and then your conclusion.  
+4. Support your points with specific facts or examples, such as naming countries reliant on fossil fuels or corporate contributions to emissions.  
+5. Vary your sentence beginnings and combine related ideas to improve sentence variety and flow.  
+6. End with a clear conclusion or call to action that summarizes your main point or suggests solutions.",110,12,6,0,6,38.25393939393942,5,5,3
+2,combined,questions_first,"Climate change is getting worse and many countries still burn fossil fuels even though they know it is harmful. Governments talk about action but real changes are slow. People recycle and try to reduce waste, but it feels small compared to what big companies do.","Here is clear, combined feedback to help you improve your paragraph:
+
+1. **Clarify Your Ideas**  
+   - Replace vague phrases like “getting worse” and “feels small” with specific details or examples.  
+   - For example, say “Global temperatures have risen by 1.2°C in the last century, causing more extreme weather” instead of “climate change is getting worse.”  
+   - Explain why government changes are slow and why individual actions seem less impactful.
+
+2. **Organize Your Paragraph Clearly**  
+   - Start with a strong topic sentence stating your main argument about climate change and insufficient action.  
+   - Follow a logical order: describe the problem (climate change and fossil fuel use), then government responses, then individual efforts, and finish with your conclusion or opinion.  
+   - Use transition words like “however,” “although,” or “despite” to connect ideas smoothly.
+
+3. **Strengthen Your Argument with Examples and Evidence**  
+   - Support your points with specific facts or examples, such as naming countries still reliant on fossil fuels or citing that big companies contribute nearly 70% of global carbon emissions.  
+   - Explain why individual efforts like recycling, while important, are limited compared to corporate impact.
+
+4. **Improve Sentence Variety and Flow**  
+   - Vary how you start sentences to avoid repetition (avoid starting many sentences with “People” or “Governments”).  
+   - Combine related ideas to make your writing smoother and more engaging.
+
+5. **End with a Clear Conclusion or Call to Action**  
+   - Summarize your main point or suggest a solution, such as stronger government regulations or increased global cooperation to combat climate change effectively.
+
+By following these steps, your paragraph will be clearer, better structured, and more persuasive. Keep up the good work!","What specific examples can you add to show how climate change is worsening?  
+How can you organize your ideas to create a clearer flow from the problem to solutions?  
+In what ways can you strengthen your argument by explaining the impact of individual versus corporate actions?
+
+1. Replace vague phrases like “getting worse” and “feels small” with precise details or statistics, such as temperature increases or emission percentages.  
+2. Structure your paragraph with a clear topic sentence, followed by a logical sequence: describe the problem, government actions, individual efforts, and conclude with your opinion or a call to action.  
+3. Support your points with concrete examples and explain why some actions have more impact than others, using transition words to connect your ideas smoothly.",124,9,3,3,7,43.94865591397851,5,5,3
