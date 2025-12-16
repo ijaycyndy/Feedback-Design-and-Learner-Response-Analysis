@@ -8,7 +8,7 @@ It builds on Projects 1 (Multi-Persona AI Writing Assistant) and 2 (Learning Ana
 ## Open in Google Colab
 
 Use the link below to run the full analysis notebook in Google Colab.
-[https://colab.research.google.com/github/ijaycyndy/Learning-Analytics-Dashboard-for-Writing-Improvement/blob/main/feedback_design_analysis.ipynb](https://github.com/ijaycyndy/Feedback-Design-and-Learner-Response-Analysis/blob/main/Feedback_Design_and_Learner_Response_Analysis.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]
 
 ## Research Focus
 
