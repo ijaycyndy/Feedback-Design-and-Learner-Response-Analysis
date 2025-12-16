@@ -3,7 +3,12 @@
 This project examines how learners are likely to respond to different AI feedback designs in writing tasks.
 The focus is on clarity, actionability, and cognitive load rather than text generation.
 
-It builds on Projects 1 and 2 by shifting attention from what feedback is produced to how feedback design may affect learners.
+It builds on Projects 1 (Multi-Persona AI Writing Assistant) and 2 (Learning Analytics Dashboard for Writing Improvement) by shifting attention from what feedback is produced to how feedback design may affect learners.
+
+## Open in Google Colab
+
+Use the link below to run the full analysis notebook in Google Colab.
+https://colab.research.google.com/github/ijaycyndy/Learning-Analytics-Dashboard-for-Writing-Improvement/blob/main/feedback_design_analysis.ipynb
 
 ## Research Focus
 
