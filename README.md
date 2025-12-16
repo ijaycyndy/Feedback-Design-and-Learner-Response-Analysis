@@ -12,16 +12,15 @@ Use the link below to run the full analysis notebook in Google Colab.
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ijaycyndy/Feedback-Design-and-Learner-Response-Analysis/blob/main/Feedback_Design_and_Learner_Response_Analysis.ipynb)
 
 
-
 ## Research Focus
 
 The project explores three core questions:
 
-How do different feedback styles affect clarity and actionability?
+1 How do different feedback styles affect clarity and actionability?
 
-What trade-offs exist between detailed feedback and cognitive load?
+2 What trade-offs exist between detailed feedback and cognitive load?
 
-Do structured styles reduce learner effort while maintaining usefulness?
+3 Do structured styles reduce learner effort while maintaining usefulness?
 
 The aim is to support evidence-informed design of AI feedback for education.
 
@@ -31,39 +30,39 @@ The dataset is derived from earlier projects in this portfolio.
 
 Each row represents one feedback variant and includes:
 
-Persona generating the feedback
+1 Persona generating the feedback
 
-Feedback style (raw, short_actions, step_by_step, questions_first)
+2 Feedback style (raw, short_actions, step_by_step, questions_first)
 
-Feedback text
+3 Feedback text
 
-LLM-based scores (1–5 scale): (clarity, actionability, cognitive_load)
+4 LLM-based scores (1–5 scale): (clarity, actionability, cognitive_load)
 
 All scoring is reproducible and documented in the notebook.
 
 ## Method Overview
 
-Multiple feedback variants were generated for the same writing samples
+1 Multiple feedback variants were generated for the same writing samples
 
-An LLM was used as a consistent scoring instrument
+2 An LLM was used as a consistent scoring instrument
 
-Scores were validated to ensure: (valid JSON output, no missing values, consistent scale usage)
+3 Scores were validated to ensure: (valid JSON output, no missing values, consistent scale usage)
 
-Results were aggregated by persona and feedback style
+4 Results were aggregated by persona and feedback style
 
-Visual analysis was used to highlight design trade-offs
+5 Visual analysis was used to highlight design trade-offs
 
 ## Key Analyses
 
 The notebook includes:
 
-Summary tables by persona and style
+1 Summary tables by persona and style
 
-Actionability comparisons across feedback styles
+2 Actionability comparisons across feedback styles
 
-Cognitive load comparisons across feedback styles
+3 Cognitive load comparisons across feedback styles
 
-Identification of design trade-offs between brevity and depth
+4 Identification of design trade-offs between brevity and depth
 
 The analysis prioritises transparency and interpretability.
 
@@ -71,13 +70,13 @@ The analysis prioritises transparency and interpretability.
 
 This project aligns with AI for Education research by:
 
-Treating feedback as a learning intervention
+1 Treating feedback as a learning intervention
 
-Examining learner effort, not only correctness
+2 Examining learner effort, not only correctness
 
-Highlighting design choices that affect usability
+3 Highlighting design choices that affect usability
 
-Demonstrating how learning analytics can guide feedback design
+4 Demonstrating how learning analytics can guide feedback design
 
 The approach reflects realistic constraints in educational settings.
 
